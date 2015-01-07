@@ -3,8 +3,7 @@ title: Fortalecer as pernas
 author: lourenco
 layout: default
 ---
-<h2 style="text-align: center;">
-  <a href="http://lourencoazevedo.com/wp-content/uploads/2014/12/PromoJan2014.jpg"><img class="aligncenter size-full wp-image-603" src="http://lourencoazevedo.com/wp-content/uploads/2014/12/PromoJan2014.jpg" alt="PromoJan2014" width="800" height="533" /></a>
+<p align="center"><img src="/imagens/paulas.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
 </h2>
 
 <h2 style="text-align: center;">
