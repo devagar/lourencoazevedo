@@ -6,7 +6,9 @@ layout: default
 
 ## Seja bem vindo à Arte do Cultivo da Quietude
 
-O meu nome é Lourenço de Azevedo e desde 1997 que esta pergunta tem sido o meu mantra pessoal.
+**E se fossse possível praticar todos os dias?**
+
+O meu nome é Lourenço de Azevedo e desde 1997 esta pergunta tem sido o meu mantra pessoal.
 
 Descobri que para esta pergunta existem muitas respostas, e que a capacidade de treinar com regularidade varia de praticante para praticante consoante três factores.
 

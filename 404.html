@@ -1,0 +1,31 @@
+---
+layout: default
+title: 404 - Not found
+---
+
+<h3>404 - Não Encontrado</h3>
+
+<p>O ficheiro ou página que procura não existe ou foi removido</p>
+
+<h3>Últimos blocos de aulas divulgados</h3>
+
+<p><a href="/aulas.html"> Fortalecer e flexibilizar as pernas </a></p>
+<p><a href="/zero.html"> Chi Kung Zero - 8 semanas para regressa à prática essencial</a></p>
+
+
+<h3>Últimos artigos publicados</h3>
+
+<div class="hfeed">
+    <article class="hentry entry">
+        <p>{% for post in site.posts limit:5 %}
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            <time datetime="{{ post.date | xmlschema }}">{{ post.date | date: "- %b %d, %Y" }}</time> 
+          <br>
+          {% endfor %}
+         </p>
+     </article>
+ </div>
+
+<p><a href="http://lourencoazevedo.com"> Regressar à Arte do Cultivo da Quietude </a></p>
+
+

@@ -23,26 +23,17 @@ Todas as aulas são realizadas no [Instituto Macrobiótico de Portugal](http://i
 
 ### Aulas individuais
 
-Aulas que permitem fortalecer a prática pessoal.
+Aulas que permitem [fortalecer a prática pessoal](/aulas-individuais.html).
 
 ### Chi Kung nas empresas
 
-Destina-se a utilizar todo o potencial do Chi Kung no meio empresarial.
-
-### Programas de estudo de Chi Kung On-line
-
-Vídeo essencial – Aprofunde a prática do vídeo essencial mediante o tempo e recursos que tem disponíveis.
-
-Plataforma de estudos de Zhan Zhuang Chi Kung  – Pratique onde quer que esteja.
-
-### Cursos
-
-Regenerar – Curso Anual de Chi Kung Terapêutico no Instituto Macrobiótico de Portugal.
-
-Formação de professores de Zhan Zhuang Chi Kung – Foundation Teachers.
+Destina-se a utilizar todo o [potencial do Chi Kung no meio empresarial ou instituições de ensino](/empresas.html).
 
 ### Agenda
 
+Braga - Museu Nogueira da Silva - Dia 6 de Fevereiro, 22:30 - **Palestra - Como adaptar-se à Primavera com a Medicina Tradicional Chinesa** 
+
+Braga - Mosteiro de Tibães, Dia 7 de Fevereiro - **Workshop - Prepara-se para Primavera** 
 
 ###Ultimos artigos publicados
 
