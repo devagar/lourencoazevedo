@@ -1,0 +1,24 @@
+---
+layout: default
+---
+    <article>
+      <time datetime="{{ page.date | xmlschema }}">{{ page.date | date: "%d %b, %Y" }}</time>
+      <h2>{{ page.title }}</h2>
+      {{ content }}
+   </article>
+ 
+ <div class="share42init">
+      <script type="text/javascript" src="/social/share42/share42.js"></script> 
+</div>
+
+    <div id="paginator">
+               <h4> {% if page.previous %}
+                  <a id="left" href="{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Anterior :</a>
+                {% endif %}
+                
+                {% if page.next %}
+                  <a id="right" href="{{ page.next.url }}" title="{{ page.next.title }}">: Próximo &rarr;</a>
+                {% endif %}
+              <h4>
+    </div>
+
