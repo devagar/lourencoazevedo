@@ -1,4 +1,4 @@
-, ,---
+---
 title: Onde quer levar o seu Chi Kung?
 layout: post
 ---
