@@ -93,7 +93,7 @@ A quem deixou de praticar e quer regressar á prática começando pelo seu essen
 
 ## Como participar no Programa Chi Kung Zero
 
-  1. O valor total deste programa é de 130 Euros ou de 150 para inscrições depois de 8 de Janeiro. 
+  1. O valor total deste programa é de 130 Euros se a inscrição for feita até dia 11 de Janeiro ou de 150 para inscrições depois desta data.
   2. Deverá preencher o [seguinte formulário.][1]
   3. Transferir o valor da inscrição de 30 Eur. (que será deduzido no preço do programa) para o nib 0045 5197 40259661184 38 &#8211; o restate valor deverá ser pago na primeira aula. 
 
