@@ -97,7 +97,7 @@ A quem deixou de praticar e quer regressar á prática começando pelo seu essen
   2. Deverá preencher o [seguinte formulário.][1]
   3. Transferir o valor da inscrição de 30 Eur. (que será deduzido no preço do programa) para o nib 0045 5197 40259661184 38 &#8211; o restate valor deverá ser pago na primeira aula. 
 
-Este programa poderá ser pago em três vezes, no valor 60 Eur. pagos no início de cada mês. 
+Este programa poderá ser pago em três vezes, no valor 50 Eur. pagos no início de cada mês. 
 
 **Dia 13 de Janeiro às 18:45 começam as aulas. **
 
