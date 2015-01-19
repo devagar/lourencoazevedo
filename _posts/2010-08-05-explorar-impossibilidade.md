@@ -20,6 +20,6 @@ Esperar praticar só quando as condições ideais estão reunidas, é não saber
 
 Sem falar da vida em si.
 
-**Exercício: **
+**Exercício:**
 
 Onde quer que esteja, agora, neste momento, a ler este email, pratique cinco minutos de Chi Kung. Aproveite a impossibilidade, crie hipóteses - Essa é a alquimia do treino.
