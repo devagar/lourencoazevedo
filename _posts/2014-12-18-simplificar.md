@@ -89,7 +89,7 @@ layout: post
 </p>
 
 <p style="font-family: Arial;">
-  Pode ser na prática do <a href="http://lourencoazevedo.com/video/">Vídeo Essencial:</a>
+  Pode ser na prática do <a href="http://lourencoazevedo.com/video.html">Vídeo Essencial:</a>
 </p>
 
 <ul style="font-family: Arial;">
