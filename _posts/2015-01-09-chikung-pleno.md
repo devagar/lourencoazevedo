@@ -35,13 +35,3 @@ Por mais pequena que seja esta acção, poderá de certo fazer a diferença. Esp
 Ao realizar uma destas sugestões, congratule-se - acabou de levar Energia Vital a uma área da sua vida.
 
 Boas práticas. 
-
-**Nesta altura que escrevo este artigo continuo sem acesso à minha página**, uma operação que deveria demorar 12 horas está neste momento quase em 48h.
-
-Esta situação tem dificultado a comunicação para a inscrição [no seminário Chi Kung Zero - Prática essêncial](http://eepurl.com/baSI7T) - Que se inicia já na próxima Terça feira e se realiza todas as semanas seguintes até dia 3 de Março.
-
-Para mais informações utilizem o meu email pessoal. <lourenco.azevedo@gmail.com> e não o endereço que está disponível [nesta página.](http://eepurl.com/baSI7T) 
-
-O período em que as inscrições beneficiam de redução devido a este imprevisto foi também alterado para Domingo até às 24h.
-
-Um excelente fim de semana para todos. 

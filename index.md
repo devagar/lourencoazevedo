@@ -25,16 +25,6 @@ Todas as aulas são realizadas no [Instituto Macrobiótico de Portugal](http://i
 
 Aulas que permitem [fortalecer a prática pessoal](/aulas-individuais.html).
 
-### Chi Kung nas empresas
-
-Destina-se a utilizar todo o [potencial do Chi Kung no meio empresarial ou instituições de ensino](/empresas.html).
-
-### Agenda
-
-Braga - Museu Nogueira da Silva - Dia 6 de Fevereiro, 22:30 - **Palestra - Como adaptar-se à Primavera com a Medicina Tradicional Chinesa** 
-
-Braga - Mosteiro de Tibães, Dia 7 de Fevereiro - **Workshop - Prepara-se para Primavera** 
-
 ###Ultimos artigos publicados
 
 <div class="hfeed">
