@@ -2,9 +2,6 @@
 layout: default
 title: arquivo
 ---
-
-### Arquivo
-
 Aqui encontra-se uma selecção de todos os artigos publicados até hoje.
 
 <div class="hfeed">
