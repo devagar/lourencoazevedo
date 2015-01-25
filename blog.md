@@ -3,8 +3,6 @@ layout: default
 title: blog
 ---
 
-<h3>Artigos</h3>
-
 Artigos mais recentes de um total de mais de 200. Deseja ler mais? Consulte o [arquivo](/arquivo.html). 
 
 <p></p>

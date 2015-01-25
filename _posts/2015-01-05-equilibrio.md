@@ -1,16 +1,6 @@
 ---
 title: 'Fortalecer e flexibilizar as pernas &#8211; Equilíbrio'
 layout: post
-tags:
-  - aulas
-  - chikung
-  - equilibrio
-  - exercicios
-  - habitos
-  - mestria
-  - praticar
-  - promoção
-  - qigong
 ---
 A antes de começar este artigo que contém um vídeo para fortalecer as pernas e o equilíbrio, lembro que amanhã começam mais [10 semanas de prática][1]. Este artigo está incluído nessa divulgação.
 
