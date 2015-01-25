@@ -10,6 +10,10 @@ layout: default
 
 O meu nome é Lourenço de Azevedo e desde 1997 esta pergunta tem sido o meu mantra pessoal.
 
+Antes de começar:
+
+O que é o Chi Kung?
+
 Descobri que para esta pergunta existem muitas respostas, e que a capacidade de treinar com regularidade varia de praticante para praticante consoante três factores.
 
   1. **O espaço físico disponível para a prática,** há quem tenha parques frondosos à porta de casa ou quem tenha que afastar a mesa da sala cada vez que quer praticar.
@@ -29,8 +33,8 @@ exercícios essenciais: o aquecimento, as posturas e a auto-massagem final.
 * [Todas as semanas existem aulas regulares](/aulas.html). Estas aulas estão
 divididas em blocos de 10 a 12 semanas que funcionam como um curso onde
 o praticante aprende a desenvolver um treino à medida das suas capacidades
-individuais. Conheça aqui as propostas de aulas [regulares ](/regulares.html)
-e [avançadas](/avancadas.html).
+individuais. Conheça aqui as propostas de aulas [regulares ](/aulas.html)
+e avançadas.
 
 
 ### 10 Artigos introdutórios ao Cultivo da Quietude {#artigos-introdutrios-ao-cultivo-da-quietude}
