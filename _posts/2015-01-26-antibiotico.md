@@ -24,12 +24,10 @@ A quietude, torna-se um manifesto claro ao seu ritmo pessoal e uma oportunidade 
 
 Acordar por acordar, fazer por fazer, reagir por reagir, tomar por tomar.
 
-Não existem dúvidas que os antibióticos podem ser em alguns casos essenciais, mas essa importância é grandemente acrescida quando suportada por uma escolha consciente - se possível, da parte de quem os toma.
-
-Se não corre risco de vida*, pode sempre fazer a escolha de se permitir viver o que a vida lhe tem para oferecer.
+Não existem dúvidas da importância dos antibióticos, mas essa importância é grandemente acrescida quando suportada por uma escolha consciente* - sempre que possível, por parte de quem os toma.
 
 Boas práticas
 
-*Devendo sempre em caso de dúvida consultar o seu médico de família.
+*Em caso de dúvida deverá consultar o seu médico de família.
 
 [Fonte das referências dos dados no inicio desta artigo](http://www.healthychildren.org/English/health-issues/conditions/treatments/pages/The-History-of-Antibiotics.aspx?nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token)
