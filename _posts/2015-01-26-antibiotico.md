@@ -8,7 +8,7 @@ Surgiam complicações graves a partir de laringites e era comum infecções nos
 
 A Tuberculose e pneumonia desenvolviam-se tão rapidamente, que levavam a complicações secundárias sérias ou mesmo à morte. 
 
-Hoje mais de 70 anos depois das primeiras aplicações bem sucedidas da penicilina, pode tornar-se necessário que antes que lhe seja prescrito um antibiótico que esta pergunta seja feita - se existe mesmo um risco de vida?
+Hoje mais de 70 anos depois das primeiras aplicações bem sucedidas da penicilina, pode tornar-se necessário antes que lhe seja prescrito um antibiótico que esta pergunta seja feita - se existe mesmo um risco de vida?
 
 Ou se, a prescrição desse medicamento não é apenas uma forma rápida se livrar da doença, de voltar à aceleração dos dias, voltar à produtividade standard, de manter o ritmo e a rotina diária que existia antes de terem surgido os primeiros sinais de febre ou desconforto no corpo. Muitas vezes naturais e inofensivos.
 
