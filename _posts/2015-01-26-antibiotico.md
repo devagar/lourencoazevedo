@@ -24,8 +24,10 @@ A quietude, torna-se um manifesto claro ao seu ritmo pessoal e uma oportunidade 
 
 Acordar por acordar, fazer por fazer, reagir por reagir, tomar por tomar.
 
-Se não corre risco de vida, pode sempre fazer a escolha de se permitir viver o que a vida lhe tem para oferecer.
+Se não corre risco de vida, pode sempre fazer a escolha de se permitir viver o que a vida lhe tem para oferecer.*
 
 Boas práticas
+
+*Devendo sempre em caso de dúvida consultar o seu médico de família.
 
 [Fonte das referências dos dados no inicio desta artigo](http://www.healthychildren.org/English/health-issues/conditions/treatments/pages/The-History-of-Antibiotics.aspx?nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token)
