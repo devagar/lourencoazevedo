@@ -24,7 +24,7 @@ A quietude, torna-se um manifesto claro ao seu ritmo pessoal e uma oportunidade 
 
 Acordar por acordar, fazer por fazer, reagir por reagir, tomar por tomar.
 
-Se não corre risco de vida, pode sempre fazer a escolha de se permitir viver o que a vida lhe tem para oferecer.*
+Se não corre risco de vida*, pode sempre fazer a escolha de se permitir viver o que a vida lhe tem para oferecer.
 
 Boas práticas
 
