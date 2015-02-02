@@ -3,7 +3,7 @@ layout: post
 title: O milagre da verticalidade 
 ---
 
-<p align="center"><img src="http://lourencoazevedo.com/imagens/2014-08-01.jpg" style="border: 1px solid #ccc; padding: 4px; width: 100%"></p>
+<p align="center"><img src="http://lourencoazevedo.com/pimagens/2014-08-19.jpg" style="border: 1px solid #ccc; padding: 4px; width: 100%"></p>
 
 Segundo a informação disponível no terreno onde esta anta pode ser visitada - em Melriça no concelho de Castelo de Vide, o seu período de construção situa-se algures entre o terceiro e quarto milénio antes de Cristo. Isto confere-lhe uma respeitável idade de pelo menos cinco mil anos.
 
@@ -11,7 +11,7 @@ A capacidade que o ser humano desenvolveu de se manter de pé é tão notável c
 
 Depois desta visita escrevi no meu diário pessoal várias páginas do que representou para mim estar em contacto com esta anta em termos de simplicidade, quietude, longevidade e opções minimalistas de vida. Mas tudo o que é escrito é apenas uma parte do que é realmente a experiência na sua totalidade.
 
-<p><img src="http://lourencoazevedo.com/imagens/PosturaWuji.png" class="profile" style="float: left; margin-right: 1em; width: 15%;"></p>
+<p><img src="http://lourencoazevedo.com/pimagens/PosturaWuji.png" class="profile" style="float: left; margin-right: 1em; width: 15%;"></p>
 
 A proposta para hoje é que ao vosso ritmo se permitam experienciar o milagre da verticalidade praticando a postura do Wuji. Essa é talvez a melhor conclusão que pode ser dada a este artigo. 
 
