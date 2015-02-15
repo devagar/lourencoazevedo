@@ -26,7 +26,7 @@ Na minha experiência existem sete factores que impedem que o potencial individu
 
 ## Zhan Zhuang Chi Kung 
 
-Na tradição do Chi Kung existem muitas escolas e abordagens.
+Na tradição do Chi Kung existem muitas escolas e abordagens.
 
 Uma das mais antigas é chamado Zhan Zhuang Chi Kung, que traduzindo de forma livre significa “Postura da Árvore.”
 
@@ -46,8 +46,8 @@ Nas aulas o treino das posturas é alternado com exercícios dinâmicos de Chi K
 
 De uma forma harmoniosa treinamos para fundir disciplina interna, o relaxamento, a quietude e o movimento.
 
-O melhor conselho para a prática é a paciência e treino regular – mesmo apenas um quarto de hora por dia poderá beneficiar quer a saúde física quer a saúde mental.  
-<a id="wang"></a>  
+O melhor conselho para a prática é a paciência e treino regular – mesmo apenas um quarto de hora por dia poderá beneficiar quer a saúde física quer a saúde mental. 
+<a id="wang"></a> 
 Neste blog encontrará recursos que apoiam esta prática, mas se está curioso o meu conselho é que experimente um [aula][1].
 
 ## Linhagem 
@@ -60,7 +60,7 @@ O mestre Wang Xiang Zhai dedicou a sua vida a reunir as peças perdidas desta ar
 
 <img class="alignleft size-medium wp-image-128" src="/imagens/YuYongNian.jpg" alt="YuYongNian" width="300" height="225" />
 
-A continuidade do legado deixado pelo Mestre Wang foi aprofundado pelos seus alunos mais próximos. Um dos mais proeminentes foi o Prof. Yu Yong Nian. Com formação médica ocidental o interesse do cultivo da quietude focou-se na sua utilização terapêutica. Nos anos 50 devido à revolução Chinesa foi um dos pioneiros com a ajuda de Wang Xiang Zhai – entretanto proibido de ensinar artes marciais pelo governo da altura, a introduzir o Chi Kung em hospitais utilizando o Zhan Zhuang Chi Kung no departamento de fisioterapia do hospital ferroviário de Pequim. Após a morte do seu mestre o Prof. Yu continuou as suas investigações no sentido de transformar esta prática numa forma eficaz de terapia, publicando nesse contexto vários livros e estudos sobre esta matéria.
+A continuidade do legado deixado pelo Mestre Wang foi aprofundado pelos seus alunos mais próximos. Um dos mais proeminentes foi o Prof. Yu Yong Nian. Com formação médica ocidental o interesse do cultivo da quietude focou-se na sua utilização terapêutica. Nos anos 50 devido à revolução Chinesa foi um dos pioneiros com a ajuda de Wang Xiang Zhai – entretanto proibido de ensinar artes marciais pelo governo da altura, a introduzir o Chi Kung em hospitais utilizando o Zhan Zhuang Chi Kung no departamento de fisioterapia do hospital ferroviário de Pequim. Após a morte do seu mestre o Prof. Yu continuou as suas investigações no sentido de transformar esta prática numa forma eficaz de terapia, publicando nesse contexto vários livros e estudos sobre esta matéria.
 
 
 <img class="alignleft size-medium wp-image-129" src="/imagens/masterlam.jpg" alt="master-lam" width="247" height="300" />
@@ -69,7 +69,7 @@ Mais tarde o Mestre Lam Kam Chuen discípulo directo do Prof. Yu continuou a sal
 
 <img class="alignleft size-medium wp-image-130" src="/imagens/peterdekker2.jpg" alt="pdekker" width="300" height="271" />
 
-Peter Den Dekker apresentou-me em 2004 a esta linhagem e é  com ele que tenho estudado desde então. De origem holandesa tem-se dedicado a fazer chegar esta prática a todos os aspectos da vida humana, tornando-a acessível a todos os praticantes independentemente da sua condição física, actividade que desempenham ou conhecimentos prévios da filosofia oriental. Deve-se à sua dedicação a propagação e interesse que esta arte tem despertado para além das fronteiras do Reino Unido.
+Peter Den Dekker apresentou-me em 2004 a esta linhagem e é com ele que tenho estudado desde então. De origem holandesa tem-se dedicado a fazer chegar esta prática a todos os aspectos da vida humana, tornando-a acessível a todos os praticantes independentemente da sua condição física, actividade que desempenham ou conhecimentos prévios da filosofia oriental. Deve-se à sua dedicação a propagação e interesse que esta arte tem despertado para além das fronteiras do Reino Unido.
 
 <img class="alignleft size-medium wp-image-131" src="/imagens/foto_blog.jpg" alt="foto_blog" width="300" height="228" />
 
