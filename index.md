@@ -27,7 +27,7 @@ Aulas que permitem [fortalecer a prática pessoal](/aulas-individuais.html).
 
 ### Video Essencial
 
-[Comece hoje a praticar Chi Kung.](http://lourencoazevedo.com/video.html)
+Comece hoje a [praticar Chi Kung.](http://lourencoazevedo.com/video.html)
 
 ###Ultimos artigos publicados
 
