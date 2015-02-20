@@ -25,6 +25,10 @@ Todas as aulas são realizadas no [Instituto Macrobiótico de Portugal](http://i
 
 Aulas que permitem [fortalecer a prática pessoal](/aulas-individuais.html).
 
+### Video Essencial
+
+[Comece hoje a praticar Chi Kung.](http://lourencoazevedo.com/video.html)
+
 ###Ultimos artigos publicados
 
 <div class="hfeed">
