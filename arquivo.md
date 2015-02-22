@@ -18,20 +18,7 @@ Aqui encontra-se uma selecção de todos os artigos publicados até hoje.
                     <ul class="past">
                         {% endif %}
                         {% endunless %}
-                    <p><a href="{{ post.url }}">{{ post.title }}</a><time>{{ post.date | date:" - %d %B" }}</time></p>
+                    <p><a href="{{ post.url }}">{{ post.title }}</a><time>{{ post.date | date:" - %d %b" }}</time></p>
                     {% endfor %}
                     </ul>
 </section> 
-
-
-<div class="hfeed">
-	<article class="hentry entry">
-	  <p>{% for post in site.posts offset %}
-          <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
-	      <time datetime="{{ post.date | xmlschema }}">{{ post.date | date: " - %d-%m-%Y" }}</time>
-	      
-	      <br>
-	  {% endfor %}
-	</p>
-	</article>
-</div>
