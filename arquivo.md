@@ -13,11 +13,11 @@ Aqui encontra-se uma selecção de todos os artigos publicados até hoje.
                         {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
                         {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
                         {% if year != nyear %}
-                    </article>
+                    </article>  
                     <h2>{{ post.date | date: '%Y' }}</h2>
                     <article class="past">
-                        <p>
                         {% endif %}
+                        <p>
                         {% endunless %}
                     <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>      
                     <time datetime="{{ post.date | xmlschema }}">{{ post.date | date: " - %d %b" }}</time>  
