@@ -15,12 +15,12 @@ Aqui encontra-se uma selecção de todos os artigos publicados até hoje.
                         {% if year != nyear %}
                     </ul>
                     <h3>{{ post.date | date: '%Y' }}</h3>
-                    <ul class="past">
+                    <article class="past">
                         {% endif %}
                         {% endunless %}
-                    <li><a href="{{ post.url }}">{{ post.title }}</a><time>{{ post.date | date:" - %d %B" }}</time></li>
+                    <strong><a href="{{ post.url }}">{{ post.title }}</a><time>{{ post.date | date:" - %d %B" }}</time></strong>
                     {% endfor %}
-                    </ul>
+                    </article>
 </section> 
 
 
