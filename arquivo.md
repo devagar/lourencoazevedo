@@ -20,9 +20,9 @@ Aqui encontra-se uma selecção de todos os artigos publicados até hoje.
                         {% endunless %}
                     <p><strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
                     <time datetime="{{ post.date | xmlschema }}">{{ post.date | date: " - %d %b" }}</time> 
-                    </p>   
+                       
                     {% endfor %}
-                
+                </p>
                     </article>
 </section> 
 
