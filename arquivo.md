@@ -18,7 +18,7 @@ Aqui encontra-se uma selecção de todos os artigos publicados até hoje.
                     <article class="past">
                         {% endif %}
                         {% endunless %}
-                    <p></p><strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
+                    <p><strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
                     <time datetime="{{ post.date | xmlschema }}">{{ post.date | date: " - %d %b" }}</time> 
                     </p>   
                     {% endfor %}
