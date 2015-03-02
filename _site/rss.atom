@@ -4,7 +4,7 @@
   <title>Zhan Zhuang Chi Kung | A Arte do Cultivo da Quietude</title>
   <link href="http://lourencoazevedo.com"/>
   <link type="application/atom+xml" rel="self" href="http://lourencoazevedo.com/atom.atom"/>
-  <updated>2015-03-02T20:07:24+00:00</updated>
+  <updated>2015-03-02T20:21:09+00:00</updated>
   <id>http://lourencoazevedo.com/</id>
   <author>
     <name>Lourenco de Azevedo</name>
@@ -22,7 +22,11 @@
       <name>"Lourenco de Azevedo"</name>
       <uri>http://lourencoazevedo.com</uri>
     </author>
-    <content type="html">&lt;p&gt;Boas práticas.&lt;/p&gt;
+    <content type="html">&lt;p&gt;É já em Abril&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;http://lourencoazevedo.com/pimagens/2015-03-03.jpg&quot; style=&quot;border: 1px solid #ccc; padding: 5px; width: 800px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Boas práticas.&lt;/p&gt;
 </content>
   </entry>
   
