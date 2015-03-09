@@ -19,7 +19,7 @@ Nesta perspectiva, imunidade é também se é o seu automóvel é alvo com algum
 
 **Imunidade é assim qualquer invasão do seu espaço**, quer seja por agentes bacteriológicos, factores climatéricos, electrónicos, acontecimentos imprevistos ou ainda por outros seres humanos.
 
-Estas invasões, sempre fizeram parte da história humana e na natureza existe sempre uma tensão constante, nem que seja a força da gravidade que se nos desafia a todo o momento a manter a posição vertical. No entanto, se as forças externas chegam a um ponto em que sente que a sua Energia Vital pode estar a ser afectada então o seu sistema imune pode estar enfraquecido. 
+Estas invasões, sempre fizeram parte da história humana e na natureza existe sempre uma tensão constante, nem que seja a força da gravidade que se nos desafia a todo o momento a manter a posição vertical. No entanto, se as forças externas chegam a um ponto em que sente que a sua Energia Vital pode estar a ser afectada - geralmente manifesta-se por cansaço, tensão ou irritação, então o seu sistema imune pode estar enfraquecido. 
 
 **O sistema imune é enfraquecido por:**
 
@@ -103,7 +103,7 @@ Esta é uma oportunidade de fortalecer a prática deste trimestre, realizando o 
 
 **Estas condições aplicam-se só para alunos inscritos até 27 de Março.**
 
-**Poderá ainda fazer o pagamento das 10 ou 20 aulas em conjuntos de pacotes 5 ou 10 aulas para poder praticar ao seu ritmo**
+**Poderá ainda fazer o pagamento das 10 ou 20 aulas, em conjuntos de pacotes 5 ou 10 aulas para poder praticar ao seu ritmo**
 
   * Pacotes de 5 Aulas de 60 Euros
   * Pacotes de 10 aulas de 120 Euros
@@ -132,7 +132,7 @@ O restante valor deve ser pago no primeiro dia de aulas.
 
 ## Dia 31 de Março começam as aulas! 
 
-**(Dia 31 de Março para quem inicia a uma Terça ou 2 de Abril para quem inicia a uma Quinta)** 
+**(Dia 31 de Março para quem inicia a uma Terça, ou 2 de Abril para quem inicia a uma Quinta)** 
 
 Depois de confirmada a sua transferência receberá instruções para iniciar o seus estudos.
 
