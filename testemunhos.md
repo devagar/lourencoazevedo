@@ -10,15 +10,17 @@ Desde que iniciei as minhas aulas, tenho tido a felicidade de entrar em contacto
 
 Construi esta página, para que pudessem aqui ter lugar as reflexões, que são de forma muito pessoal a vivência na primeira pessoa do contacto com a Arte do Cultivo da Energia Vital.
 
->Acho que foi muito bom porque além de praticarmos também aprendemos coisas novas e convivemos. Habitualmente passo mais tempo dedicada aos outros (plantas, animais, crianças - alunos e filhos) e é sempre bom dedicarmos também algum tempo a nós próprios, principalmente agora que estou no Outono da vida (55 anos). Já tinha decidido melhorar o meu estilo de vida (decisão desde Setembro de este ano) e o chi Kung vem nesse sentido complementar esta mudança.
-**Isabel Rhodes (Professora de Educação Física)**
+>Acho que foi muito bom porque além de praticarmos também aprendemos coisas novas e convivemos. Habitualmente passo mais tempo dedicada aos outros (plantas, animais, crianças - alunos e filhos) e é sempre bom dedicarmos também algum tempo a nós próprios, principalmente agora que estou no Outono da vida (55 anos). Já tinha decidido melhorar o meu estilo de vida (decisão desde Setembro de este ano) e o chi Kung vem nesse sentido complementar esta mudança. - **Isabel Rhodes (Professora de Educação Física)**
 
->Este dia foi descontraído, relaxante, harmonioso. Conheci algo diferente e saudável que posso adoptar no meu dia-a-dia. Aprendi mais uma "ferramenta" para tornar o meu dia-a-dia mais calmo, mais harmonioso o que contribui para o meu bem estar. **Ondina Miranda (Produtora de Agricultura Biológica)**
+>Chi kung Terapêutico para mim é meditação em movimento. Trabalha intensivamente o corpo, a respiração e a mente. Faz-me enraizar e focar.  
+Um estado fundamental para viver de uma forma integral e em harmonia com o exterior. Obrigada - **Marta Ribeiro (Consultora de Alimentação Natural/ Terapeuta de Shiatsu)**
+
+>Este dia foi descontraído, relaxante, harmonioso. Conheci algo diferente e saudável que posso adoptar no meu dia-a-dia. Aprendi mais uma "ferramenta" para tornar o meu dia-a-dia mais calmo, mais harmonioso o que contribui para o meu bem estar. - **Ondina Miranda (Produtora de Agricultura Biológica)**
 
 >Antes de mais, obrigada Lourenço! A palestra foi muito reveladora para mim, adorei a informação transmitida. O workshop foi intenso, muita energia em movimento - trabalhar o meu espaço, o meu centro, a periferia. Foi algo extraordinário. Estou muito grata! - **Albertina Pereira (Instrutora de Kundalini Yoga)**
 
 >Sinto que enriqueci o meu conhecimento. Foi um dia que dediquei a mim.
-Desconhecia a prática de Chi Kung. Senti melhor a minha existência, o quanto é importante o nosso equilibrio. Obrigada por nos passar este conhecimento.**Deolinda Pereira (Doméstica)**
+Desconhecia a prática de Chi Kung. Senti melhor a minha existência, o quanto é importante o nosso equilibrio. Obrigada por nos passar este conhecimento. - **Deolinda Pereira (Doméstica)**
 
 >Adorei, foi fantástico. Os exercícios são óptimos e penso repetir e treinar em casa. como estou Zen não consigo dizer mais nada o que para mim é óptimo!!! é que ando sempre a 1000. :) - **Idalina Lima (Secretária de Direcção) - Sobre o Workshop em Braga Outubro 2015**
 
