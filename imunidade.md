@@ -60,29 +60,33 @@ Além das 12 ou 24 horas de aulas que contêm estes blocos, cada sessão tem uma
 
 **Cada curso que desenvolvo, permite que reúna material necessário para que no final possa continuar a treinar autonomamente, ao seu ritmo e segundo os seus recursos.**
 
-## A quem se destina? {#a-quem-se-destina}
+## A quem se destina? 
 
-O cuidado e fortalecimento das pernas são temas universais. Este bloco de aulas está aberto a todos os interessados em iniciar, ou fortalecer a sua prática individual, no sentido de trazer mais vitalidade ao seu dia a dia.
+O fortalecimento da Imunidade e da postura são temas universais. Este bloco de aulas está aberto a todos os interessados em iniciar, ou fortalecer a sua prática individual, no sentido de trazer mais vitalidade ao seu dia a dia.
 
 Independentemente do seu nível de conhecimentos sobre esta prática.
 
 **Local das aulas:** Instituto Macrobiótico de Portugal – a 5 minutos do metro Baixa Chiado.
 
-## Como participar em três passos: {#como-participar-em-trs-passos}
+## Como participar em três passos: 
 
-### Passo 1 – Escolha um dos programas de estudo {#passo-1---escolha-um-dos-programas-de-estudo}
+### Passo 1 – Escolha um dos programas de estudo 
 
-**Uma vez por semana (10 Aulas)** 
+**Uma vez por semana (12 Aulas)** 
 
 **Horários: Terças ou Quintas das 12:30 às 13:45 ou Quintas das 18:45 às 20h**
 
-  * 100 Euros até dia 30 de Janeiro &#8211; 110 Eur. depois desta data.
+  * 100 Euros até dia 27 de Março; 110 Eur. depois desta data.
 
-**Duas vezes por semana (20 Aulas)**
+**Duas vezes por semana (24 Aulas)**
 
 **Horários: Terças e Quintas das 12:30 às 13:45 ou Quintas das 18:45 às 20h**
 
-  * 150 Euros até dia 30 de Janeiro &#8211; 160 Eur. depois desta data.
+  * 150 Euros até dia 27 de Março; 160 Eur. depois desta data.
+
+Uma ou duas vezes por semana, mais seminário com Peter den Dekker - Esta é uma oportunidade de fortalecer a prática deste trimestre realizando o seminário anual com Peter Den Dekker. Existem condições especiais para alunos inscritos até 27 de Março. 
+
+<p align="center"><img src="http://lourencoazevedo.com/imagens/valores.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
 
 **Poderá ainda fazer o pagamento das 10 ou 20 aulas em conjuntos de pacotes 5 ou 10 aulas para poder praticar ao seu ritmo**
 
@@ -101,21 +105,17 @@ Independentemente do seu nível de conhecimentos sobre esta prática.
 
 > Adicionar 15 Eur. – Valor facultativo anual, que diz respeito ao seguro e que deve ser pago directamente ao Instituto Macrobiótico na primeira semana de aula. A sua subscrição é da inteira responsabilidade do praticante.*
 
-## As inscrições efectuadas até 30 de Dezembro,
-
-incluem sem qualquer custo adicional, a aula de encerramento deste bloco &#8211; na manhã de Sábado, dia 14 de Março das 10 às 13h, na Escola Secundária António Arroio. 
-
-### Passo 2 {#passo-2}
+### Passo 2 
 
 <a title="Formulário de inscrição" href="http://lourencoazevedo.com/formulario-de-inscricao/" target="_blank">Preencha os seguinte formulário</a>
 
-### Passo 3 {#passo-3}
+### Passo 3 
 
 Transfira o valor da inscrição de 30 Eur. (que será deduzido no preço total programa escolhido) para o Nib 0045 5197 40259661184 38
 
 O restante valor deve ser pago no primeiro dia de aulas.
 
-## A 6 de Janeiro começam as aulas. (Dia 6 para quem inicia a uma Terça ou 8 para quem inicia a uma Quinta) {#setembro-30-comeam-as-aulas-dia-30-para-quem-inicia-a-uma-tera-ou-2-de-outubro-para-quem-inicia-a-uma-quinta}
+## A 31 de MArço começam as aulas. (Dia 31 de Março para quem inicia a uma Terça ou 2 de Abril para quem inicia a uma Quinta) 
 
 Depois de confirmada a sua transferência receberá instruções para iniciar o seus estudos.
 
@@ -123,7 +123,7 @@ Esta é uma oportunidade única de integrar um grupo de praticantes com uma moti
 
 [Testemunhos][1] de vários participantes nos programas Chi Kung Dojo.
 
-## Garantia Chi Kung Dojo {#garantia-chi-kung-dojo}
+## Garantia Chi Kung Dojo 
 
 O meu compromisso em todos os programas de estudo que crio e nas aulas que leciono é criar o melhor conteúdo para permitir a quem se inscreve superar-se e descobrir novas possibilidades no seu dia a dia com a prática do Zhan Zhuang Chi Kung.
 
@@ -136,14 +136,3 @@ Tem questões sobre este programa de estudo? [Coloque-as aqui.][2]
 
  [1]: testemunhos.html "Testemunhos"
  [2]: contacto.html "Contacto" 
-
-
-
-
-
- 
-
-
-
- 
-
