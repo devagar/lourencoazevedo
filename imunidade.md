@@ -2,7 +2,7 @@
 title: Imunidade
 layout: default
 ---
-<p align="center"><img src="http://lourencoazevedo.com/imagens/valores.jpg" style="width: 800px"></p>
+<p align="center"><img src="http://lourencoazevedo.com/imagens/imunidade.jpg" style="width: 800px"></p>
 
 <h2 style="text-align: center;">
   12 Semanas para fortalecer a Imunidade e a Postura
