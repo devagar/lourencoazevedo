@@ -86,7 +86,7 @@ Independentemente do seu nível de conhecimentos sobre esta prática.
 
 Uma ou duas vezes por semana, mais seminário com Peter den Dekker - Esta é uma oportunidade de fortalecer a prática deste trimestre realizando o seminário anual com Peter Den Dekker. Existem condições especiais para alunos inscritos até 27 de Março. 
 
-<p align="center"><img src="http://lourencoazevedo.com/imagens/valores.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
+<p align="center"><img src="http://lourencoazevedo.com/imagens/valores.jpg" style="width: 800px"></p>
 
 **Poderá ainda fazer o pagamento das 10 ou 20 aulas em conjuntos de pacotes 5 ou 10 aulas para poder praticar ao seu ritmo**
 
