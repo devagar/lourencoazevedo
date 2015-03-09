@@ -12,15 +12,16 @@ layout: default
   De 13 de Março a 25 de Junho
 </h3>
 
-Na Filosofia oriental, a imunidade não está só relacionada com as doenças que possa contrair. A imunidade é algo mais vasto que mede a sua relação mais ou menos harmoniosa com todos os desafios do dia a dia. 
+Na Filosofia oriental, a imunidade não está só relacionada com as doenças que possa contrair. A imunidade é algo mais vasto, que mede a sua relação mais ou menos harmoniosa com todos os desafios do dia a dia. 
 
-Nesta perspectiva, imunidade é também se é alguém o seu automóvel é alvo de batidas, riscos, publicidade indesejável com alguma frequência. Se á entrada ou à saída dos transportes públicos é sofre empurrões ou amassos sem razão aparente. Se é fácil para si perder objectos, ser alvo de assaltos ou encontrar-se, muitas vezes sem saber como, na presença de vendedores porta a porta, de rua ou de telemarketing. Recebe muitos emails ou sms e a maior parte deles são spam?
+Nesta perspectiva, imunidade é também se é o seu automóvel é alvo com alguma frequência de batidas, riscos ou publicidade indesejável. Se à entrada ou à saída dos transportes públicos sofre empurrões ou amassos sem razão aparente. Se é fácil para si perder objectos, ser alvo de assaltos ou encontrar-se, muitas vezes sem saber como, na presença de vendedores porta a porta ou de vendas por telefone. Recebe muitos emails ou sms e a maior parte deles são spam? 
+…
 
-Imunidade é assim qualquer invasão do seu espaço, quer por bactérias, factores climatéricos, electrónicos, acontecimentos imprevistos ou outros seres humanos.
+**Imunidade é assim qualquer invasão do seu espaço**, quer seja por agentes bacteriológicos, factores climatéricos, electrónicos, acontecimentos imprevistos ou ainda por outros seres humanos.
 
-Estas invasões, sempre fizeram parte da história humana e na natureza existe sempre uma tensão constante, nem que seja a constante força da gravidade que se nos desafia a todo o momento a manter a posição vertical. No entanto, se as forças externas chegam a um ponto em que sente que a sua Energia Vital pode estar a ser afectada então o seu sistema imune pode estar enfraquecido. 
+Estas invasões, sempre fizeram parte da história humana e na natureza existe sempre uma tensão constante, nem que seja a força da gravidade que se nos desafia a todo o momento a manter a posição vertical. No entanto, se as forças externas chegam a um ponto em que sente que a sua Energia Vital pode estar a ser afectada então o seu sistema imune pode estar enfraquecido. 
 
-O sistema imune é enfraquecido por: 
+**O sistema imune é enfraquecido por:**
 
 + Poucas horas de sono
 + Multitarefa
@@ -30,39 +31,41 @@ O sistema imune é enfraquecido por:
 + Falta de movimento  
 + Ambientes caoticamente "arrumados" e com pouca circulação de ar
 + Falta de contacto com ambientes naturais
-+ Demasiadas horas na mesma posição especialmente na posição deitada ou sentada. 
++ Demasiadas horas na mesma posição especialmente na posição deitada ou sentada
 
-Na Medicina Tradicional Chinesa existem cinco abordagens que podem ser utilizadas para fortalecer a energia vital. Mediante um diagnóstico individualizado, é possível o Especialista de Medicina Tradicional Chinesa utilizar uma destas cinco abordagens individualmente ou combinadas. 
+Na Medicina Tradicional Chinesa, existem cinco abordagens que podem ser utilizadas para fortalecer a sua energia vital. Mediante um diagnóstico individualizado, é possível o Especialista de Medicina Tradicional Chinesa utilizar uma destas cinco abordagens individualmente ou combinadas. 
 
-Essas cinco abordagens são o a Acupunctura, a Fitoterapia, a Massagem Tui Na, a Dietética Energética e o Chi Kung.
+Essas cinco aspectos são a Acupunctura, a Fitoterapia, a Massagem Tui Na, a Dietética Energética e o Chi Kung.
 
-Desde 2012, que tenho vindo a utilizar o Chi Kung como método preferencial de terapia para quem me procura e a desenvolver programas de estudo que permitem a quem neles participa ganhar autoridade e autonomia sobre o seu espaço, tempo e recursos. 
+Nestes últimos anos, tenho vindo a utilizar o Chi Kung como método preferencial de terapia, para quem procura soluções terapêutica personalizadas e a desenvolver programas de estudo que permitem a quem neles participa ganhar autoridade e autonomia sobre o seu espaço, tempo e recursos. 
 
-O tema do próximo trimestre a iniciar já dia 31 de Março chama-se Imunidade. 
+O tema do próximo trimestre - a iniciar já dia 31 de Março, será a Imunidade. 
 
-Imunidade é um conjunto de 12 semanas de aulas que permitem a quem participa estudar o sistema imunitário utilizando o Zhan Zhuang Chi Kung e a Medicina Tradicional Chinesa.
+Imunidade, é um conjunto de 12 semanas de aulas, que permitem a quem participa estudar o sistema imunitário utilizando o Zhan Zhuang Chi Kung e a Medicina Tradicional Chinesa.
 
-Estas aulas incluem material de estudo semanal, para lhe permitir compreender melhor este tema. 
+Estas aulas incluem material de estudo semanal, para lhe permitir compreender e aplicar melhor este tema no seu dia a dia.  
 
-No final destas 12 semanas, é possível reunir material suficiente para pode criar autonomia em relação à sua prática. 
+No final destas 12 semanas, é possível reunir material suficiente para pode criar uma prática de Chi Kung à sua medida e mediante as suas necessidades individuais. 
 
 Como participar?
 
 Existem várias possibilidades de treino para as próximas 12 semanas
-  * **Frequentar uma aula por semana?** – no total de 12 aulas.
-  * **Frequentar duas aulas por semana?** – No total de 24 aulas.
-  * **Frequentar aulas particulares?** como forma de aprofundar a um nível individual seu potencial e limitações.
+
+  * **Frequentar uma aula por semana** – no total de 12 aulas.
+  * **Frequentar duas aulas por semana** – No total de 24 aulas.
+  * **Frequentar aulas particulares** como forma de aprofundar a um nível individual seu potencial e limitações.
+  * **Frequentar o seminário com Peter Den Dekker** em que o tema central será também a imunidade.
   * **Todas opções de aulas presencias incluem material de estudo semanal.**
 
 ## Programa das aulas regulares 
 
-Além das 12 ou 24 horas de aulas que contêm estes blocos, cada sessão tem uma duração de 75 min, terá acesso a material que lhe permite – independentemente do seu nível:
+Além das 12 ou 24 horas de aulas que contêm estes blocos, cada sessão tem uma duração de 75 min que lhe dão acesso a material que lhe permite – independentemente do seu nível:
 
   * Fortalecer a sua prática criando hábitos mais sólidos
   * Utilizar tempo actual de prática de forma mais eficiente
   * Conhecer técnicas que pode utilizar para potenciar a sua energia vital
   * Solidificar ou aumentar o tempo actual de treino
-  * Criar bases teóricas que permitir compreender melhor a prática
+  * Criar bases teóricas que permitem compreender melhor a prática
   * Conhecer o seu corpo de uma forma mais integrada
   * Beneficiar de todos os efeitos que o Chi Kung Terapêutico lhe pode oferecer
   * Fazer parte de uma comunidade motivada em desenvolver os seus hábitos de prática.
@@ -93,12 +96,12 @@ Independentemente do seu nível de conhecimentos sobre esta prática.
 
   * 150 Euros até dia 27 de Março; 160 Eur. depois desta data.
 
-**Uma ou duas vezes por semana, mais seminário com Peter den Dekker**
-Esta é uma oportunidade de fortalecer a prática deste trimestre realizando o seminário anual com Peter Den Dekker. 
-
-Existem condições especiais para alunos inscritos até 27 de Março. 
+**Uma ou duas vezes por semana, mais seminário com Peter den Dekker.**
+Esta é uma oportunidade de fortalecer a prática deste trimestre, realizando o seminário anual com Peter Den Dekker adicionalmente às aulas semanais.  
 
 <p align="center"><img src="http://lourencoazevedo.com/imagens/valores.jpg" style="width: 800px"></p>
+
+**Estas condições aplicam-se só para alunos inscritos até 27 de Março.**
 
 **Poderá ainda fazer o pagamento das 10 ou 20 aulas em conjuntos de pacotes 5 ou 10 aulas para poder praticar ao seu ritmo**
 
@@ -119,7 +122,7 @@ Existem condições especiais para alunos inscritos até 27 de Março.
 
 ### Passo 2 
 
-<a title="Formulário de inscrição" href="http://lourencoazevedo.com/formulario-de-inscricao/" target="_blank">Preencha os seguinte formulário</a>
+<a title="Formulário de inscrição" href="http://lourencoazevedo.com/inscricao.html" target="_blank">Preencha os seguinte formulário</a>
 
 ### Passo 3 
 
@@ -127,7 +130,9 @@ Transfira o valor da inscrição de 30 Eur. (que será deduzido no preço total 
 
 O restante valor deve ser pago no primeiro dia de aulas.
 
-## A 31 de Março começam as aulas. (Dia 31 de Março para quem inicia a uma Terça ou 2 de Abril para quem inicia a uma Quinta) 
+## Dia 31 de Março começam as aulas! 
+
+**(Dia 31 de Março para quem inicia a uma Terça ou 2 de Abril para quem inicia a uma Quinta)** 
 
 Depois de confirmada a sua transferência receberá instruções para iniciar o seus estudos.
 
