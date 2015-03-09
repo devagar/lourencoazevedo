@@ -2,6 +2,15 @@
 title: Imunidade
 layout: default
 ---
+<p align="center"><img src="http://lourencoazevedo.com/imagens/valores.jpg" style="width: 800px"></p>
+
+<h2 style="text-align: center;">
+  12 Semanas para fortalecer a Imunidade e a Postura
+</h2>
+
+<h3 style="text-align: center;">
+  De 13 de Março a 25 de Junho
+</h3>
 
 Na Filosofia oriental, a imunidade não está só relacionada com as doenças que possa contrair. A imunidade é algo mais vasto que mede a sua relação mais ou menos harmoniosa com todos os desafios do dia a dia. 
 
@@ -84,7 +93,10 @@ Independentemente do seu nível de conhecimentos sobre esta prática.
 
   * 150 Euros até dia 27 de Março; 160 Eur. depois desta data.
 
-Uma ou duas vezes por semana, mais seminário com Peter den Dekker - Esta é uma oportunidade de fortalecer a prática deste trimestre realizando o seminário anual com Peter Den Dekker. Existem condições especiais para alunos inscritos até 27 de Março. 
+**Uma ou duas vezes por semana, mais seminário com Peter den Dekker**
+Esta é uma oportunidade de fortalecer a prática deste trimestre realizando o seminário anual com Peter Den Dekker. 
+
+Existem condições especiais para alunos inscritos até 27 de Março. 
 
 <p align="center"><img src="http://lourencoazevedo.com/imagens/valores.jpg" style="width: 800px"></p>
 
@@ -115,7 +127,7 @@ Transfira o valor da inscrição de 30 Eur. (que será deduzido no preço total 
 
 O restante valor deve ser pago no primeiro dia de aulas.
 
-## A 31 de MArço começam as aulas. (Dia 31 de Março para quem inicia a uma Terça ou 2 de Abril para quem inicia a uma Quinta) 
+## A 31 de Março começam as aulas. (Dia 31 de Março para quem inicia a uma Terça ou 2 de Abril para quem inicia a uma Quinta) 
 
 Depois de confirmada a sua transferência receberá instruções para iniciar o seus estudos.
 
