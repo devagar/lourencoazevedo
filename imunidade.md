@@ -22,15 +22,15 @@ Estas invasões, sempre fizeram parte da história humana e na natureza existe s
 
 O sistema imune é enfraquecido por: 
 
-Poucas horas de sono
-Multitarefa
-Alimentação caótica
-Falta de tempo de qualidade, onde seja possível Estar em vez do constante Fazer
-Relações pouco nutritivas
-Falta de movimento  
-Ambientes caoticamente "arrumados" e com pouca circulação de ar
-Falta de contacto com ambientes naturais
-Demasiadas horas na mesma posição especialmente na posição deitada ou sentada. 
++ Poucas horas de sono
++ Multitarefa
++ Alimentação caótica
++ Falta de tempo de qualidade, onde seja possível Estar em vez do constante Fazer
++ Relações pouco nutritivas
++ Falta de movimento  
++ Ambientes caoticamente "arrumados" e com pouca circulação de ar
++ Falta de contacto com ambientes naturais
++ Demasiadas horas na mesma posição especialmente na posição deitada ou sentada. 
 
 Na Medicina Tradicional Chinesa existem cinco abordagens que podem ser utilizadas para fortalecer a energia vital. Mediante um diagnóstico individualizado, é possível o Especialista de Medicina Tradicional Chinesa utilizar uma destas cinco abordagens individualmente ou combinadas. 
 
