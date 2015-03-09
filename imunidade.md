@@ -18,7 +18,7 @@ Na Filosofia oriental, a imunidade não está só relacionada com as doenças qu
 
 **A Imunidade é posta à prova, quando o seu espaço vital é invadido**, quer seja por agentes bacteriológicos, factores climatéricos, electrónicos, acontecimentos imprevistos ou ainda por outros seres humanos.
 
-Na perspectiva oriental, imunidade é também se o seu automóvel é alvo com alguma frequência de batidas, riscos ou publicidade indesejável. Se à entrada ou à saída dos transportes públicos sofre habitualmente empurrões ou amassos sem razão aparente. Se é frequente para si perder objectos, ser alvo de assaltos, agressões físicas ou verbais, ou encontrar-se, muitas vezes sem saber como, na presença de vendedores porta a porta ou de vendas por telefone. É também abrir a caixa do correio e encontrar mais spam que mensagens, ou receber com frequência sms's com publicidade indesejada. 
+Na perspectiva oriental, imunidade é também se o seu automóvel é alvo com alguma frequência de batidas, riscos ou publicidade indesejável. Se à entrada ou à saída dos transportes públicos sofre habitualmente empurrões ou amassos sem razão aparente. Se é frequente para si perder objectos, ser alvo de assaltos, agressões físicas ou verbais, ou encontrar-se muitas vezes sem saber como, na presença de vendedores porta a porta, ou de vendas por telefone. É também abrir a caixa do correio e encontrar mais spam que mensagens, ou receber com frequência sms's com publicidade indesejada. 
 …
 
 Estas invasões, sempre fizeram parte da história humana e na natureza existe sempre uma tensão constante, nem que seja a força da gravidade que se nos desafia a todo o momento a manter a posição vertical. 
