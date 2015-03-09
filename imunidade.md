@@ -14,11 +14,12 @@ layout: default
 
 >Forte é aquele que conquista os outros; Poderoso é aquele que se conquista a si mesmo. - Lao Tzu, Filósofo Chinês. 
 
-Na Filosofia oriental, a imunidade não está só relacionada com as doenças que possa contrair. A imunidade, é algo mais vasto, que mede a sua relação e a flexibilidade com que vive os desafios do seu dia a dia. 
+Na Filosofia oriental, a imunidade não está só relacionada com as doenças que possa contrair. A imunidade, é algo mais vasto, que mede a flexibilidade com que vive os desafios do seu dia a dia. 
 
 **A Imunidade é posta à prova, quando o seu espaço vital é invadido**, quer seja por agentes bacteriológicos, factores climatéricos, electrónicos, acontecimentos imprevistos ou ainda por outros seres humanos.
 
-Na perspectiva oriental, imunidade é também se o seu automóvel é alvo com alguma frequência de batidas, riscos ou publicidade indesejável. Se à entrada ou à saída dos transportes públicos sofre habitualmente empurrões ou amassos sem razão aparente. Se é frequente para si perder objectos, ser alvo de assaltos, agressões físicas ou verbais, ou encontrar-se muitas vezes sem saber como, na presença de vendedores porta a porta, ou de vendas por telefone. É também abrir a caixa do correio e encontrar mais spam que mensagens, ou receber com frequência sms's com publicidade indesejada. 
+Na perspectiva oriental, imunidade é também se o seu automóvel é alvo com alguma frequência de batidas ou riscos. Se à entrada ou à saída dos transportes públicos sofre habitualmente empurrões ou amassos sem razão aparente. Se é frequente para si perder objectos, ser alvo de assaltos, agressões físicas ou verbais, ou encontrar-se muitas vezes sem saber como, na presença de vendedores porta a porta ou de vendas por telefone. É também abrir a caixa do correio e encontrar mais spam que mensagens, ou receber com frequência sms's com publicidade indesejada. 
+
 …
 
 Estas invasões, sempre fizeram parte da história humana e na natureza existe sempre uma tensão constante, nem que seja a força da gravidade que se nos desafia a todo o momento a manter a posição vertical. 
@@ -49,7 +50,7 @@ Imunidade, é um conjunto de 12 semanas de aulas, que permitem a quem participa 
 
 Estas aulas incluem material de estudo semanal, para lhe permitir compreender e aplicar melhor este tema no seu dia a dia.  
 
-No final destas 12 semanas, é possível reunir material suficiente para pode criar uma prática de Chi Kung à sua medida e mediante as suas necessidades individuais. 
+No final destas 12 semanas, é possível reunir material suficiente para poder criar uma prática de Chi Kung à sua medida e mediante as suas necessidades individuais. 
 
 Como participar?
 
@@ -57,22 +58,22 @@ Existem várias possibilidades de treino para as próximas 12 semanas
 
   * **Frequentar uma aula por semana** – no total de 12 aulas.
   * **Frequentar duas aulas por semana** – No total de 24 aulas.
-  * **Frequentar aulas particulares** como forma de aprofundar a um nível individual seu potencial e limitações.
-  * **Frequentar o seminário com Peter Den Dekker** em que o tema central será também a Imunidade e a postura.
+  * **Frequentar aulas particulares,** como forma de aprofundar a um nível individual seu potencial e limitações.
+  * **Frequentar o seminário com Peter Den Dekker,** em que o tema central será também a Imunidade e a postura.
   * **Todas opções de aulas presencias incluem material de estudo semanal.**
 
 ## Programa das aulas regulares 
 
 Além das 12 ou 24 horas de aulas que contêm estes blocos, cada sessão tem uma duração de 75 min. que lhe dão acesso a material que lhe vai permitir – independentemente do seu nível:
 
-  * Fortalecer a sua prática criando hábitos mais sólidos
-  * Utilizar tempo actual de prática de forma mais eficiente
-  * Conhecer técnicas que pode utilizar para potenciar a sua energia vital
+  * Fortalecer a sua prática, criando hábitos mais sólidos
+  * Utilizar mais eficientemente, o tempo actual de prática 
+  * Conhecer técnicas, que pode utilizar para potenciar a sua energia vital
   * Solidificar ou aumentar o tempo actual de treino
-  * Criar bases teóricas que permitem compreender melhor a prática
+  * Criar bases teóricas, que permitem compreender melhor a prática
   * Conhecer o seu corpo de uma forma mais integrada
-  * Beneficiar de todos os efeitos que o Chi Kung Terapêutico lhe pode oferecer
-  * Fazer parte de uma comunidade motivada em desenvolver os seus hábitos de prática.
+  * Beneficiar, de todos os efeitos que o Chi Kung Terapêutico lhe pode oferecer
+  * Fazer parte de uma comunidade, motivada em desenvolver os seus hábitos de prática.
 
 **Cada curso que desenvolvo, permite que reúna material necessário para que no final possa continuar a treinar autonomamente, ao seu ritmo e segundo os seus recursos.**
 
