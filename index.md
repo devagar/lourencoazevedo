@@ -6,7 +6,7 @@ title: A Arte do Cultivo da Quietude
 
 ### Aulas Presenciais
 
-[Novo bloco de aulas](aulas.html) teve início no dia 6 de Janeiro. 
+[Novo bloco de aulas](imunidade.html) Tem início dia 31 de Março. 
 
 Todas as aulas são realizadas no [Instituto Macrobiótico de Portugal](http://institutomacrobiotico.com)
 
