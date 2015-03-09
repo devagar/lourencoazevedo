@@ -12,36 +12,40 @@ layout: default
   De 13 de Março a 25 de Junho
 </h3>
 
-Na Filosofia oriental, a imunidade não está só relacionada com as doenças que possa contrair. A imunidade é algo mais vasto, que mede a sua relação mais ou menos harmoniosa com todos os desafios do dia a dia. 
+>Forte é aquele que conquista os outros; Poderoso é aquele que se conquista a si mesmo. - Lao Tzu, Filósofo Chinês. 
 
-Nesta perspectiva, imunidade é também se é o seu automóvel é alvo com alguma frequência de batidas, riscos ou publicidade indesejável. Se à entrada ou à saída dos transportes públicos sofre empurrões ou amassos sem razão aparente. Se é fácil para si perder objectos, ser alvo de assaltos ou encontrar-se, muitas vezes sem saber como, na presença de vendedores porta a porta ou de vendas por telefone. Recebe muitos emails ou sms e a maior parte deles são spam? 
+Na Filosofia oriental, a imunidade não está só relacionada com as doenças que possa contrair. A imunidade, é algo mais vasto, que mede a sua relação e a flexibilidade com que vive os desafios do seu dia a dia. 
+
+**A Imunidade é posta à prova, quando o seu espaço vital é invadido**, quer seja por agentes bacteriológicos, factores climatéricos, electrónicos, acontecimentos imprevistos ou ainda por outros seres humanos.
+
+Na perspectiva oriental, imunidade é também se o seu automóvel é alvo com alguma frequência de batidas, riscos ou publicidade indesejável. Se à entrada ou à saída dos transportes públicos sofre habitualmente empurrões ou amassos sem razão aparente. Se é frequente para si perder objectos, ser alvo de assaltos, agressões físicas ou verbais, ou encontrar-se, muitas vezes sem saber como, na presença de vendedores porta a porta ou de vendas por telefone. É também abrir a caixa do correio e encontrar mais spam que mensagens, ou receber com frequência sms's com publicidade indesejada. 
 …
 
-**Imunidade é assim qualquer invasão do seu espaço**, quer seja por agentes bacteriológicos, factores climatéricos, electrónicos, acontecimentos imprevistos ou ainda por outros seres humanos.
+Estas invasões, sempre fizeram parte da história humana e na natureza existe sempre uma tensão constante, nem que seja a força da gravidade que se nos desafia a todo o momento a manter a posição vertical. 
 
-Estas invasões, sempre fizeram parte da história humana e na natureza existe sempre uma tensão constante, nem que seja a força da gravidade que se nos desafia a todo o momento a manter a posição vertical. No entanto, se as forças externas chegam a um ponto em que sente que a sua Energia Vital pode estar a ser afectada - geralmente manifesta-se por cansaço, tensão ou irritação, então o seu sistema imune pode estar enfraquecido. 
+No entanto, se as forças externas chegam a um ponto em que sente que a sua Energia Vital pode estar a ser afectada - o que geralmente manifesta-se por cansaço, tensão ou irritação, então o seu sistema imune pode estar enfraquecido. 
 
 **O sistema imune é enfraquecido por:**
 
 + Poucas horas de sono
-+ Multitarefa
++ Multi tarefa
 + Alimentação caótica
 + Falta de tempo de qualidade, onde seja possível Estar em vez do constante Fazer
-+ Relações pouco nutritivas
-+ Falta de movimento  
-+ Ambientes caoticamente "arrumados" e com pouca circulação de ar
++ Relações pessoais ou laborais pouco nutritivas
++ Falta de movimento saudável  
++ Ambientes desarrumados, caóticos e com pouca circulação de ar
 + Falta de contacto com ambientes naturais
-+ Demasiadas horas na mesma posição especialmente na posição deitada ou sentada
++ Demasiadas horas na mesma posição, especialmente na posição deitada ou sentada
 
-Na Medicina Tradicional Chinesa, existem cinco abordagens que podem ser utilizadas para fortalecer a sua energia vital. Mediante um diagnóstico individualizado, é possível o Especialista de Medicina Tradicional Chinesa utilizar uma destas cinco abordagens individualmente ou combinadas. 
+Na Medicina Tradicional Chinesa, existem cinco abordagens que podem ser utilizadas para fortalecer a sua imunidade. 
 
-Essas cinco aspectos são a Acupunctura, a Fitoterapia, a Massagem Tui Na, a Dietética Energética e o Chi Kung.
+Mediante um diagnóstico individualizado, é possível o Especialista de Medicina Tradicional Chinesa utilizar a Acupunctura, a Fitoterapia, a Massagem Tui Na, a Dietética Energética e o Chi Kung.
 
-Nestes últimos anos, tenho vindo a utilizar o Chi Kung como método preferencial de terapia, para quem procura soluções terapêutica personalizadas e a desenvolver programas de estudo que permitem a quem neles participa ganhar autoridade e autonomia sobre o seu espaço, tempo e recursos. 
+Nestes últimos anos, tenho vindo a utilizar o Chi Kung como método preferencial de terapia, para quem procura soluções terapêutica personalizadas e a desenvolver programas de estudo, que permitem a quem neles participa ganhar autoridade e autonomia sobre o seu espaço, tempo e recursos. 
 
-O tema do próximo trimestre - a iniciar já dia 31 de Março, será a Imunidade. 
+**O tema do próximo trimestre** - a iniciar já dia 31 de Março, será a **Imunidade** e a sua relação com a postura. 
 
-Imunidade, é um conjunto de 12 semanas de aulas, que permitem a quem participa estudar o sistema imunitário utilizando o Zhan Zhuang Chi Kung e a Medicina Tradicional Chinesa.
+Imunidade, é um conjunto de 12 semanas de aulas, que permitem a quem participa estudar o sistema imunitário, utilizando o Zhan Zhuang Chi Kung e a Medicina Tradicional Chinesa.
 
 Estas aulas incluem material de estudo semanal, para lhe permitir compreender e aplicar melhor este tema no seu dia a dia.  
 
@@ -54,12 +58,12 @@ Existem várias possibilidades de treino para as próximas 12 semanas
   * **Frequentar uma aula por semana** – no total de 12 aulas.
   * **Frequentar duas aulas por semana** – No total de 24 aulas.
   * **Frequentar aulas particulares** como forma de aprofundar a um nível individual seu potencial e limitações.
-  * **Frequentar o seminário com Peter Den Dekker** em que o tema central será também a imunidade.
+  * **Frequentar o seminário com Peter Den Dekker** em que o tema central será também a Imunidade e a postura.
   * **Todas opções de aulas presencias incluem material de estudo semanal.**
 
 ## Programa das aulas regulares 
 
-Além das 12 ou 24 horas de aulas que contêm estes blocos, cada sessão tem uma duração de 75 min que lhe dão acesso a material que lhe permite – independentemente do seu nível:
+Além das 12 ou 24 horas de aulas que contêm estes blocos, cada sessão tem uma duração de 75 min. que lhe dão acesso a material que lhe vai permitir – independentemente do seu nível:
 
   * Fortalecer a sua prática criando hábitos mais sólidos
   * Utilizar tempo actual de prática de forma mais eficiente
@@ -96,8 +100,7 @@ Independentemente do seu nível de conhecimentos sobre esta prática.
 
   * 150 Euros até dia 27 de Março; 160 Eur. depois desta data.
 
-**Uma ou duas vezes por semana, mais seminário com Peter den Dekker.**
-Esta é uma oportunidade de fortalecer a prática deste trimestre, realizando o seminário anual com Peter Den Dekker adicionalmente às aulas semanais.  
+**Uma ou duas vezes por semana, e participação no seminário com Peter den Dekker.** Esta é uma oportunidade de fortalecer a prática deste trimestre, realizando o seminário anual com Peter Den Dekker, adicionalmente às aulas semanais.  
 
 <p align="center"><img src="http://lourencoazevedo.com/imagens/valores.jpg" style="width: 800px"></p>
 
@@ -142,7 +145,7 @@ Esta é uma oportunidade única de integrar um grupo de praticantes com uma moti
 
 ## Garantia Chi Kung Dojo 
 
-O meu compromisso em todos os programas de estudo que crio e nas aulas que leciono é criar o melhor conteúdo para permitir a quem se inscreve superar-se e descobrir novas possibilidades no seu dia a dia com a prática do Zhan Zhuang Chi Kung.
+O meu compromisso em todos os programas de estudo que crio e nas aulas que lecciono é criar o melhor conteúdo para permitir a quem se inscreve superar-se e descobrir novas possibilidades no seu dia a dia com a prática do Zhan Zhuang Chi Kung.
 
 **Como tal garanto** a todos os inscritos que não se encontrem satisfeitos com o programa que possuem cinco dias depois da primeira aula para que todo o investimento seja devolvido – sem que qualquer pergunta seja feita.
 
