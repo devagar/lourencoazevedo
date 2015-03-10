@@ -9,7 +9,7 @@ layout: default
 </h2>
 
 <h3 style="text-align: center;">
-  De 13 de Março a 25 de Junho
+  De 31 de Março a 25 de Junho
 </h3>
 
 >Forte é aquele que conquista os outros; Poderoso é aquele que se conquista a si mesmo. - Lao Tzu, Filósofo Chinês. 
