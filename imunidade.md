@@ -16,7 +16,7 @@ layout: default
 
 Na Filosofia oriental, a imunidade não está só relacionada com as doenças que possa contrair. A imunidade, é algo mais vasto, que mede a flexibilidade com que vive os desafios do seu dia a dia. 
 
-**A Imunidade é posta à prova, quando o seu espaço vital é invadido**, quer seja por agentes bacteriológicos, factores climatéricos, electrónicos, acontecimentos imprevistos ou ainda por outros seres humanos.
+**A Imunidade é colocada à prova, quando o seu espaço vital é invadido**, quer seja por agentes bacteriológicos, factores climatéricos, electrónicos, acontecimentos imprevistos ou ainda por outros seres humanos.
 
 Na perspectiva oriental, imunidade é também se o seu automóvel é alvo com alguma frequência de batidas ou riscos. Se à entrada ou à saída dos transportes públicos sofre habitualmente empurrões ou amassos sem razão aparente. Se é frequente para si perder objectos, ser alvo de assaltos, agressões físicas ou verbais, ou encontrar-se muitas vezes sem saber como, na presença de vendedores porta a porta ou de vendas por telefone. É também abrir a caixa do correio e encontrar mais spam que mensagens, ou receber com frequência sms's com publicidade indesejada. 
 
@@ -24,7 +24,7 @@ Na perspectiva oriental, imunidade é também se o seu automóvel é alvo com al
 
 Estas invasões, sempre fizeram parte da história humana e na natureza existe sempre uma tensão constante, nem que seja a força da gravidade que se nos desafia a todo o momento a manter a posição vertical. 
 
-No entanto, se as forças externas chegam a um ponto em que sente que a sua Energia Vital pode estar a ser afectada - o que geralmente manifesta-se por cansaço, tensão ou irritação, então o seu sistema imune pode estar enfraquecido. 
+No entanto, se as forças externas chegam a um ponto em que sente que a sua Energia Vital pode estar a ser afectada - o que geralmente manifesta-se por cansaço, tensão ou irritação, então o seu sistema imune pode estar em desequilíbrio. 
 
 **O sistema imune é enfraquecido por:**
 
@@ -40,13 +40,13 @@ No entanto, se as forças externas chegam a um ponto em que sente que a sua Ener
 
 Na Medicina Tradicional Chinesa, existem cinco abordagens que podem ser utilizadas para fortalecer a sua imunidade. 
 
-Mediante um diagnóstico individualizado, é possível o Especialista de Medicina Tradicional Chinesa utilizar a Acupunctura, a Fitoterapia, a Massagem Tui Na, a Dietética Energética e o Chi Kung.
+Mediante um diagnóstico individualizado, é possível o Especialista de Medicina Tradicional Chinesa utilizar a Acupunctura, a Fitoterapia, a Massagem Tui Na, a Dietética Energética ou o Chi Kung.
 
 Nestes últimos anos, tenho vindo a utilizar o Chi Kung como método preferencial de terapia, para quem procura soluções terapêutica personalizadas e a desenvolver programas de estudo, que permitem a quem neles participa ganhar autoridade e autonomia sobre o seu espaço, tempo e recursos. 
 
 **O tema do próximo trimestre** - a iniciar já dia 31 de Março, será a **Imunidade** e a sua relação com a postura. 
 
-Imunidade, é um conjunto de 12 semanas de aulas, que permitem a quem participa estudar o sistema imunitário, utilizando o Zhan Zhuang Chi Kung e a Medicina Tradicional Chinesa.
+O programa Imunidade, são um conjunto de 12 semanas de aulas, que permitem a quem participa estudar o sistema imunitário, utilizando o Zhan Zhuang Chi Kung e a Medicina Tradicional Chinesa como linguagem. 
 
 Estas aulas incluem material de estudo semanal, para lhe permitir compreender e aplicar melhor este tema no seu dia a dia.  
 
@@ -79,9 +79,7 @@ Além das 12 ou 24 horas de aulas que contêm estes blocos, cada sessão tem uma
 
 ## A quem se destina? 
 
-O fortalecimento da Imunidade e da postura são temas universais. Este bloco de aulas está aberto a todos os interessados em iniciar, ou fortalecer a sua prática individual, no sentido de trazer mais vitalidade ao seu dia a dia.
-
-Independentemente do seu nível de conhecimentos sobre esta prática.
+Independentemente do seu nível, de conhecimentos sobre esta prática, o fortalecimento da Imunidade e da postura são temas universais. Este bloco de aulas está aberto a todos os interessados em iniciar, ou fortalecer a sua prática individual, no sentido de trazer mais vitalidade ao seu dia a dia.
 
 **Local das aulas:** Instituto Macrobiótico de Portugal – a 5 minutos do metro Baixa Chiado.
 
