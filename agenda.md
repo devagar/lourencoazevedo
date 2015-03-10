@@ -24,10 +24,10 @@ Durante o ano, a minha prática de ensino divide-se ente o Chi Kung e a Medicina
 + 1 - Artrite e Osteoporose - Instituto Macrobiótico de Portugal
 + 8 - Curso Regenerar - Foco - Instituto Mecrobiótico de Portugal
 + 14 - Seminário de encerramento do Trimestre
++ 31 - Inicio do Segundo Trimestre de Aulas de Chi Kung
 
 **Abril**
-
-+ 7 - Inicio do Segundo Trimestre de Aulas de Chi Kung 
+ 
 + 12 - Curso Regenerar - Da Quietude ao Movimento - Instituto Macrobiótico de Portugal
 + 18 - Yin, Yang e os Cinco Elementos - Instituto Macrobiótico de Portugal
 + 24, 25 e 16 - Workshop com Peter Den Dekker - 
@@ -35,6 +35,7 @@ Durante o ano, a minha prática de ensino divide-se ente o Chi Kung e a Medicina
 **Maio**
 
 + 2, 3, 4 - (Un)productive Summit - Gladtone Library, Liverpool
++ 9 e 10 - A Arte da Saúde e longevidade - Ki terapias - Aveiro
 + 16 e 17 - Curso Regenerar - Retiro Urbano - Instituto Macrobiótico de Portugal
 + 23 - Sistema Reprodutor - Instituto Macrobiótico de Portugal
 
