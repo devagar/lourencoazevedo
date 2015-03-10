@@ -35,7 +35,7 @@ Durante o ano, a minha prática de ensino divide-se ente o Chi Kung e a Medicina
 **Maio**
 
 + 2, 3, 4 - (Un)productive Summit - Gladtone Library, Liverpool
-+ 9 e 10 - A Arte da Saúde e longevidade - Ki terapias - Aveiro
++ 9 e 10 - A Arte da Saúde e Longevidade - Ki terapias - Aveiro
 + 16 e 17 - Curso Regenerar - Retiro Urbano - Instituto Macrobiótico de Portugal
 + 23 - Sistema Reprodutor - Instituto Macrobiótico de Portugal
 
