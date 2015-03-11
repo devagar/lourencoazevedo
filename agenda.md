@@ -24,7 +24,7 @@ Durante o ano, a minha prática de ensino divide-se ente o Chi Kung e a Medicina
 + 1 - Artrite e Osteoporose - Instituto Macrobiótico de Portugal
 + 8 - Curso Regenerar - Foco - Instituto Mecrobiótico de Portugal
 + 14 - Seminário de encerramento do Trimestre
-+ 31 - Inicio do Segundo Trimestre de Aulas de Chi Kung
++ 31 - Inicio do Segundo Trimestre de Aulas de Chi Kung 
 
 **Abril**
  
