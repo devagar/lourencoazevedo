@@ -6,7 +6,7 @@ title: Mariazinha
 
 Esta afirmação, foi feita por uma senhora que neste momento tem 96 anos e uma vitalidade invejável. 
 
-Os seus temas de conversa não passam pelas doenças ou pelas "coisas da idade", mas pela sua curiosidade em relação à vida e um aceitação de tudo aquilo que a esta lhe tem para oferecer. 
+Os seus temas de conversa não passam pelas doenças ou pelas "coisas da idade", mas pela sua curiosidade em relação à vida e um aceitação de tudo aquilo que a esta tem para lhe oferecer. 
 
 Esta pode ser uma visão complementar, com a teoria do querer é poder. E lembro-me enquanto escrevo estas linhas do filme ["A teoria de tudo"](https://www.youtube.com/watch?v=LUayjO_KgsQ), que conta a vida de Stephen Hawking.
 
