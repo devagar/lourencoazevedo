@@ -2,7 +2,7 @@
 layout: default 
 title: Mariazinha
 ---
->"Desde os 14 anos, que todas as noites peço a Deus que me que me leve. Depois, no outro dia de manhã, quando acordo e reparo que ainda estou viva, digo para os meus botões - então Mariazinha, ainda cá estás?"
+>"Desde os 14 anos, que todas as noites peço a Deus que me me leve. Depois, no outro dia de manhã, quando acordo e reparo que ainda estou viva, digo para os meus botões - então Mariazinha, ainda cá estás?"
 
 Esta afirmação, foi feita por uma senhora que neste momento tem 96 anos e uma vitalidade invejável. 
 
