@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: post 
 title: Mariazinha
 ---
 >"Desde os 14 anos, que todas as noites peço a Deus que me leve. Depois, no outro dia de manhã, quando acordo e reparo que ainda estou viva, digo para os meus botões - então Mariazinha, ainda cá estás?"

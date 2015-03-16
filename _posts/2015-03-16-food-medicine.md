@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: post 
 title: Que o alimento seja o teu medicamento
 ---
 Quem já teve a oportunidade, de observar o pequeno almoço de alguém com mais de 60 anos, pode deparar com esta visão: 
@@ -37,6 +37,3 @@ O desafio, no entanto, deixou de ser o de encontrar o alimento certo para um des
 
 Boas práticas. 
 
-…
-
-**Amanhã é divulgado o novo programa de introdução ao Chi Kung,** destina-se a quem nunca fez Chi Kung e quer, para além de saber mais sobre esta arte, criar uma prática regular, consistente e autónoma. 

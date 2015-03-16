@@ -6,13 +6,18 @@ layout: default
  
 <p align="center"><img src="http://lourencoazevedo.com/pimagens/zero.jpg" style="border: 1px solid #ccc; padding: 0px; width: 600px"></p>
 
-<h2 style="text-align: center;"> 
+<h1 style="text-align: center;"> 
   Curso de introdução ao Chi Kung
+</h1>
+
+<h2 style="text-align: center;">
+  12 semanas para conhecer, praticar, criar regularidade
 </h2>
 
 <h2 style="text-align: center;">
-  Desenvolva regularidade, consistência e autonomia na prática do Chi Kung
+  e desenvolver autonomia na prática do Chi Kung
 </h2>
+
 
 <p style="text-align: center;">
   <strong>Instituto Macrobiótico de Portugal, de 31 de Março a 23 Juho, das 18:45 às 20:00</strong>
@@ -47,7 +52,7 @@ O Curso de introdução ao Zhan Zhuang Chi Kung é um convite à simplificação
 + **Recursos** - Aprenda a utilizar os recursos desta prática no o seu dia a dia -  para trazer a vitalidade para fora do local de prática.
 + **Este é um curso de 12 semanas, num total de 15 horas,** limitado a 15 participantes - para que seja um percurso o mais personalizado possível. 
 
-Durante este período terá acesso a:
+## Durante este período terá acesso a:
 
   + Informação escrita em formato físico ou electrónico - para que possa estudar ao seu ritmo.
   + Ficheiros vídeo e áudio com os exercícios, para poder aprofundar a sua prática em casa.
@@ -84,7 +89,7 @@ A quem deixou de praticar e quer regressar á prática começando pelo seu essen
 
 Este programa poderá ser pago em três vezes, no valor 45 Eur. pagos no início de cada mês. 
 
-##Inscrições até 27 de Março, têm acesso a um programa extra
+##Inscrições até 27 de Março, têm acesso a um programa extra:
 
 **Chama-se programa de motivação e propósito.** Durante 100 dias, todos os dias, às 8 da manhã recebe um email que cria a motivação necessária para que a prática aconteça.  
 
@@ -94,7 +99,7 @@ Este programa, pode ser adquirido em separado depois desta data, pelo valor de 3
 
 Depois de confirmada a sua transferência, receberá instruções para iniciar o seus estudos.
 
-**Esta é uma oportunidade de começar a sua Primavera,** com uma pratica que oferece-lhe em conjunto com a Medicina Tradicional Chinesa, um modelo de compreensão mais profunda sobre os ciclos da natureza. Compreendo estes ciclos pode compreender também como viver em harmonia com o momento presente. 
+**Esta é uma oportunidade de começar a sua Primavera,** com uma pratica que tem para lhe oferecer, em conjunto com a Medicina Tradicional Chinesa, um modelo de compreensão mais profunda sobre os ciclos da natureza. Compreendo estes ciclos pode compreender também como viver em harmonia com o momento presente. 
 
 O meu compromisso, em todos os programas de estudo que crio e nas aulas que lecciono, é desenvolver o melhor conteúdo possível, para permitir a quem se inscreve superar-se e descobrir novas possibilidades no seu dia a dia com a prática do Zhan Zhuang Chi Kung.
 
