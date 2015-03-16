@@ -33,7 +33,7 @@ Tudo misturado num sumo, ao qual se adiciona um açúcar saudável que garante e
 
 A frase de Hipócrates: "Que o alimento seja o teu medicamento", hoje, ainda continua a ser válida. 
 
-O desafio, no entanto, deixou de ser o de encontrar o alimento certo para um desequilíbrio específico, mas traçar a fronteira de quando o alimento deixa de ser um medicamento para ser uma dependência - sem diferenças aparentes à dependência de compostos químicos. 
+O desafio, no entanto, deixou de ser o de encontrar o alimento certo para um desequilíbrio específico, mas traçar a fronteira de quando o alimento deixa de ser um medicamento, para ser uma dependência - sem diferenças aparentes à dependência de compostos químicos. 
 
 Boas práticas. 
 
