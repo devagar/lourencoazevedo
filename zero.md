@@ -100,7 +100,7 @@ O meu compromisso, em todos os programas de estudo que crio e nas aulas que lecc
 
 Tem questões sobre este programa de estudo? [Clique aqui.][2]  
 
-<p align="center"><img src="http://lourencoazevedo.com/pimagens/pzero.jpg" style="border: 1px solid #ccc; padding: 0px; width: 600px"></p>
+<p align="center"><img src="http://lourencoazevedo.com/pimagens/zero.jpg" style="border: 1px solid #ccc; padding: 0px; width: 600px"></p>
 
  [1]: http://form.jotformeu.com/form/50007240461339
  [2]: /contacto/
