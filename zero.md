@@ -20,7 +20,7 @@ layout: default
 
 > Todos os afazeres difíceis têm a sua origem naquilo que é fácil, e as acções grandiosas naquilo que é pequeno. *Lao Tzu*
 
-Integrar qualquer novo hábito na sua vida, requer começar pelo mais simples e fácil. Complicar, significa a extinção desse mesmo hábito a curto prazo, ou a manutenção do mesmo com grande esforço.  
+Integrar qualquer novo hábito na sua vida, requer começar pelo mais simples e fácil. Complicar, significa a extinção desse mesmo hábito a curto prazo, ou a manutenção do mesmo com grande esforço.
 
 Na minha experiência, o Chi Kung é uma arte, que com muito pouco, pode fazer o suficiente para aumentar a qualidade do seu dia a dia.
 
@@ -49,20 +49,20 @@ O Curso de introdução ao Zhan Zhuang Chi Kung é um convite à simplificação
 
 Durante este período terá acesso a:
 
-  + Informação escrita em formato físco ou electrónico - para que possa estudar ao seu ritmo. 
+  + Informação escrita em formato físico ou electrónico - para que possa estudar ao seu ritmo.
   + Ficheiros vídeo e áudio com os exercícios, para poder aprofundar a sua prática em casa.
   + Apoio presencial e via email, para esclarecer qualquer dúvida que surja.
 
-Nas 12 horas que dura este curso, ao participar vai ter acesso a material que lhe permite: 
+Nas 12 horas que dura este curso, ao participar vai ter acesso a material que lhe permite:
 
   * Conhecer História do Chi Kung e do Zhan Zhuang Chi Kung
   * Aprender os princípios básicos da filosofia oriental. 
   * Criar e manter hábitos regulares e consistentes e a gerir o seu tempo, espaço e recursos pessoais
-  * Aprender exercícios de Fortalecimento da Energia Vital, relaxamento e gestão de stress  
+  * Aprender exercícios de Fortalecimento da Energia Vital, relaxamento e gestão de stress
   * Conhecer técnicas de auto-diagnóstico
   * Aprender a viver com a Primavera
   * Aprender a praticar onde quer que esteja e para onde quer que vá
-  * Criar autonomía na sua prática diária. 
+  * Criar autonomia na sua prática diária. 
 
 Este curso é leccionado numa proporção de 70% de prática para 30% de teoria. No final, será entregue um certificado de participação.
 
@@ -94,7 +94,7 @@ Depois de confirmada a sua transferência, receberá instruções para iniciar o
 
 **Esta é uma oportunidade de começar a sua Primavera,** com uma pratica que oferece-lhe em conjunto com a Medicina Tradicional Chinesa, um modelo de compreensão mais profunda sobre os ciclos da natureza. Compreendo estes ciclos pode compreender também como viver em harmonia com o momento presente. 
 
-O meu compromisso, em todos os programas de estudo que crio e nas aulas que lecciono, é desenvolver o melhor conteúdo possivel, para permitir a quem se inscreve superar-se e descobrir novas possibilidades no seu dia a dia com a prática do Zhan Zhuang Chi Kung.
+O meu compromisso, em todos os programas de estudo que crio e nas aulas que lecciono, é desenvolver o melhor conteúdo possível, para permitir a quem se inscreve superar-se e descobrir novas possibilidades no seu dia a dia com a prática do Zhan Zhuang Chi Kung.
 
 **Como tal garanto,** a todos os inscritos que não se encontrem satisfeitos com o programa, que possuem cinco dias depois da primeira aula para que todo o investimento seja devolvido &#8211; sem que qualquer pergunta seja feita.
 
