@@ -84,11 +84,13 @@ A quem deixou de praticar e quer regressar á prática começando pelo seu essen
 
 Este programa poderá ser pago em três vezes, no valor 45 Eur. pagos no início de cada mês. 
 
-**Inscrições até 27 de Março, têm acesso a um programa extra**. Chama-se programa de motivação e propósito. Durante 100 dias, todos os dias, às 8 da manhã recebe um email que cria a motivação necessária para que a prática aconteça.  
+##Inscrições até 27 de Março, têm acesso a um programa extra
+
+**Chama-se programa de motivação e propósito.** Durante 100 dias, todos os dias, às 8 da manhã recebe um email que cria a motivação necessária para que a prática aconteça.  
 
 Este programa, pode ser adquirido em separado depois desta data, pelo valor de 39 Eur. 
 
-**Dia 131 de Janeiro às 18:45 começam as aulas.**
+**Dia 31 de Janeiro, às 18:45 começam as aulas.**
 
 Depois de confirmada a sua transferência, receberá instruções para iniciar o seus estudos.
 
