@@ -18,7 +18,7 @@ Comprimidos multicolores, todos alinhados com funções específicas,
 
 Quem já teve a oportunidade, de observar o pequeno almoço de alguém que optou por uma vida mais saudável, pode deparar com esta visão:
 
-Embalagens com pós e frascos de suplementos alinhados, com funções específicas,
+Embalagens com pós e frascos de suplementos, alinhados, com funções específicas,
 
 + Um pó que desintoxica
 + Um pó que é proteico  
