@@ -4,13 +4,9 @@ title: A Arte do Cultivo da Quietude
 ---
 ## E se fosse possível praticar Chi Kung todos os dias?
 
+### Aulas Presenciais
 
-<a href="http://lourencoazevedo.com/imunidade.html"><img src="http://lourencoazevedo.com/imagens/imunidade.jpg" style="width: 40%; float: left; margin-right: 1em; margin-top: 1em;" /></a>
-
- 
-<h3>Aulas Regulares</h3>
-
-[Novo bloco de aulas](imunidade.html) de 31 de Março a 25 de Junho, **condições especiais para inscrições até dia 27 de Março.** 
+[Novo bloco de aulas](imunidade.html) vai ter início dia 31 de Março, condições especiais para inscrições até dia 27. 
 
 Todas as aulas são realizadas no [Instituto Macrobiótico de Portugal](http://institutomacrobiotico.com)
 
@@ -25,35 +21,13 @@ Todas as aulas são realizadas no [Instituto Macrobiótico de Portugal](http://i
 - Das 12:30 às 13:45 – Aulas regulares
 - Das 18:45 às 20h – Aulas regulares
 
-<hr>
-
-<a href="http://lourencoazevedo.com/zero.html"><img src="http://lourencoazevedo.com/pimagens/zero.jpg" style="width: 40%; float: left; margin-right: 1em; margin-top: 1em" /></a>
-
-<h3>Curso de introdução ao Chi Kung</h3>
-
-[Conhecer, praticar, criar regularidade e autonomia](zero.html)
-
-De 31 de Março a 23 de Junho, **condições especiais para inscrições até dia 27 de Março.**
-
-Todas as aulas são realizadas no [Instituto Macrobiótico de Portugal](http://institutomacrobiotico.com)
-
-### Horário
-
-+ Todas as Terças das 18:45 às 20h
-
-<hr>
-
 ### Aulas individuais
 
 Aulas que permitem [fortalecer a prática pessoal](/aulas-individuais.html).
 
-<hr>
-
 ### Video Essencial
 
 Comece hoje a [praticar Chi Kung.](http://lourencoazevedo.com/video.html)
-
-<hr>
 
 ###Ultimos artigos publicados
 
