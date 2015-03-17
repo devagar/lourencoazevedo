@@ -20,7 +20,7 @@ layout: default
 
 
 <p style="text-align: center;">
-  <strong>Instituto Macrobiótico de Portugal, de 31 de Março a 23 Junho</strong>
+  <strong>Instituto Macrobiótico de Portugal, de 31 de Março a 23 Junho.</strong>
 </p>
 
 <p style="text-align: center;">
