@@ -95,7 +95,7 @@ Este programa poderá ser pago em três vezes, no valor 45 Eur. pagos no início
 
 Este programa, pode ser adquirido em separado depois desta data, pelo valor de 39 Eur. 
 
-**Dia 31 de Janeiro, às 18:45 começam as aulas.**
+**Dia 31 de Março, às 18:45 começam as aulas.**
 
 Depois de confirmada a sua transferência, receberá instruções para iniciar o seus estudos.
 
