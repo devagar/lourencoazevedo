@@ -33,9 +33,9 @@ Como qualquer arte, o Chi Kung requer espaço e tempo para poder ser aprendido. 
 
 + **Não necessita adquirir roupa especial para começar a ser praticado** - roupa confortável, ou mesmo em alguns casos a roupa do dia a dia é suficiente.
 + **Não necessita de mais espaço, ou de outro espaço em casa para iniciar a sua prática** - basta ter disponível cerca de dois metros quadrados.
-+ **Não necessita de mais tempo** - aquele que tem já é o suficiente, só precisa de aprender a escolher conscientemente, o que quer fazer com o que já tem disponível.  
++ **Não necessita de mais tempo** - aquele que tem já é o suficiente, só precisa de aprender a escolher conscientemente, o que quer fazer com o que já tem disponível.
 + **Não necessita de música especial, velas ou incenso** - pode, mas é facultativo.
-+ **Não necessita de mudar de casa, de emprego, de família ou viajar para um templo num pais distante** O que tem no aqui e agora, é suficiente para tornar a sua prática nutritiva e eficaz. 
++ **Não necessita de mudar de casa, de emprego, de família ou viajar para um templo num pais distante** O que tem no aqui e agora, é suficiente para tornar a sua prática nutritiva e eficaz.
 
 Se fossem necessários muitos pre-requisitos para iniciar a prática do Chi Kung, este nunca teria chegado aos nossos dias, aos mais variados extractos da população. 
 
@@ -47,10 +47,10 @@ Sem que tenha de adicionar mais nada à sua vida.
 
 O Curso de introdução ao Zhan Zhuang Chi Kung é um convite à simplificação, a olhar para a prática regular como parte integrante do seu quotidiano. Como a partir do que já tem disponível é possível simplificar outros aspectos da sua vida.
 
-+ **Tempo** - Aprenda a fazer escolhas conscientes com o tempo que tem disponível.
-+ **Espaço** - Aprenda a criar um espaço em casa para a sua prática &#8211; o seu lugar sagrado onde o treino se pode realizar. 
-+ **Recursos** - Aprenda a utilizar os recursos desta prática no o seu dia a dia -  para trazer a vitalidade para fora do local de prática.
-+ **Este é um curso de 12 semanas, num total de 15 horas,** limitado a 15 participantes - para que seja um percurso o mais personalizado possível. 
++ **Tempo** - Aprenda a fazer escolhas conscientes, com o tempo que tem disponível.
++ **Espaço** - Aprenda a criar, um espaço em casa para a sua prática &#8211; o seu lugar sagrado onde o treino se pode realizar.
++ **Recursos** - Aprenda a utilizar, os recursos desta prática no seu dia a dia -  para trazer a vitalidade para fora do local de prática.
++ **Este é um curso de 12 semanas, num total de 15 horas,** limitado a 15 participantes - para que seja um percurso o mais personalizado possível.
 
 ## Durante este período terá acesso a:
 
@@ -83,7 +83,7 @@ A quem deixou de praticar e quer regressar á prática começando pelo seu essen
 
 ## Como participar no Programa Chi Kung Zero
 
-  1. O valor total deste programa é de 100 Euros se a inscrição for feita até dia 27 de Março ou de 120 para inscrições depois desta data.
+  1. O valor total deste programa é de 100 Euros - se a inscrição for feita até dia 27 de Março, ou de 120 para inscrições depois desta data.
   2. Deverá preencher o [seguinte formulário.][1]
   3. Transferir o valor da inscrição de 30 Eur. (que será deduzido no preço do programa) para o nib 0045 5197 40259661184 38 - o restate valor deverá ser pago na primeira aula. 
 
