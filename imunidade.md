@@ -12,6 +12,8 @@ layout: default
   De 31 de Março a 25 de Junho
 </h3>
 
+## Condições especiais de incrição até 27 de Março
+
 >Forte é aquele que conquista os outros; Poderoso é aquele que se conquista a si mesmo. - Lao Tzu, Filósofo Chinês. 
 
 Na Filosofia oriental, a imunidade não está só relacionada com as doenças que possa contrair. A imunidade, é algo mais vasto, que mede a flexibilidade com que vive os desafios do seu dia a dia. 

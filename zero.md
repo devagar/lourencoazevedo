@@ -18,7 +18,6 @@ layout: default
   e desenvolver autonomia na prática do Chi Kung
 </h2>
 
-
 <p style="text-align: center;">
   <strong>Instituto Macrobiótico de Portugal, de 31 de Março a 23 Junho.</strong>
 </p>
@@ -26,6 +25,8 @@ layout: default
 <p style="text-align: center;">
   <strong>Todas as Terças das 18:45 às 20:00</strong>
 </p>
+
+## Condições especiais de incrição até 27 de Março
 
 > Todos os afazeres difíceis, têm a sua origem naquilo que é fácil e as acções grandiosas naquilo que é pequeno. *Lao Tzu*
 
