@@ -27,7 +27,7 @@ layout: default
 </p>
 
 <h2 style="text-align: center;">
-  Condições especiais de incrição até 27 de Março
+  Condições especiais para incrições até 27 de Março
 </h2>
 
 
