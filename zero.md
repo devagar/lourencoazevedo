@@ -26,7 +26,10 @@ layout: default
   <strong>Todas as Terças das 18:45 às 20:00</strong>
 </p>
 
-## Condições especiais de incrição até 27 de Março
+<h2 style="text-align: center;">
+  Condições especiais de incrição até 27 de Março
+</h2>
+
 
 > Todos os afazeres difíceis, têm a sua origem naquilo que é fácil e as acções grandiosas naquilo que é pequeno. *Lao Tzu*
 

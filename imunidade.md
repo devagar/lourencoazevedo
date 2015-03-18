@@ -12,7 +12,10 @@ layout: default
   De 31 de Março a 25 de Junho
 </h3>
 
-## Condições especiais de incrição até 27 de Março
+<h2 style="text-align: center;">
+  Condições especiais de incrição até 27 de Março
+</h2>
+
 
 >Forte é aquele que conquista os outros; Poderoso é aquele que se conquista a si mesmo. - Lao Tzu, Filósofo Chinês. 
 
