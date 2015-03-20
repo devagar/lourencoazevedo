@@ -31,7 +31,7 @@ Todas as aulas são realizadas no [Instituto Macrobiótico de Portugal](http://i
 
 <h3>Curso de introdução ao Chi Kung</h3>
 
-[Conhecer, praticar, criar regularidade e autonomia](zero.html)
+[Criar hábitos de prática regulares e consistentes.](zero.html)
 
 De 31 de Março a 23 de Junho, **condições especiais para inscrições até dia 27 de Março.**
 
