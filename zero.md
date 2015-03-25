@@ -89,6 +89,8 @@ A quem deixou de praticar e quer regressar á prática começando pelo seu essen
 
 **No final deste curso,** será capaz de desenvolver uma prática autónoma em casa, ao mesmo tempo que é criada uma estrutura que lhe permite compreender e participar posteriormente com maior confiança nas aulas regulares de Chi Kung. 
 
+<a name="signup"></a>
+
 ## Como participar no Programa Chi Kung Zero
 
   1. O valor total deste programa é de 100 Euros - se a inscrição for feita até dia 27 de Março, ou de 120 para inscrições depois desta data.
