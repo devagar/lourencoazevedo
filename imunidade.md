@@ -88,6 +88,8 @@ Independentemente do seu nível, de conhecimentos sobre esta prática, o fortale
 
 **Local das aulas:** Instituto Macrobiótico de Portugal – a 5 minutos do metro Baixa Chiado.
 
+<a name="signup"></a>
+
 ## Como participar em três passos: 
 
 ### Passo 1 – Escolha um dos programas de estudo 
