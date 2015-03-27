@@ -7,7 +7,7 @@ title: Lembretes
 Terminam hoje, as condições especiais para a subscrição dos novos blocos de aulas:  
 
 + [Introdução ao Chi Kung + 100 dias de motivação diária](http://lourencoazevedo.com/zero.html#signup)
-+ [Fortalecer a Imunidade](http://lourencoazevedo.com/imunidade.html#signup)
++ [Fortalecer a Imunidade com o Chi Kung](http://lourencoazevedo.com/imunidade.html#signup)
 
 Amanhã, os valores destes cursos sobem. 
 
