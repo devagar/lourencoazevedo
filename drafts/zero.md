@@ -26,6 +26,11 @@ layout: default
   <strong>Todas as Terças das 18:45 às 20:00</strong>
 </p>
 
+<h2 style="text-align: center;">
+  Condições especiais para incrições até 27 de Março
+</h2>
+
+
 > Todos os afazeres difíceis, têm a sua origem naquilo que é fácil e as acções grandiosas naquilo que é pequeno. *Lao Tzu*
 
 Integrar qualquer novo hábito na sua vida, requer começar pelo mais simples e fácil. Complicar, significa a extinção desse mesmo hábito a curto prazo, ou a manutenção do mesmo com grande esforço.
@@ -93,6 +98,12 @@ A quem deixou de praticar e quer regressar á prática começando pelo seu essen
   3. Transferir o valor da inscrição de 30 Eur. (que será deduzido no preço do programa) para o nib 0045 5197 40259661184 38 - o restate valor deverá ser pago na primeira aula. 
 
 Este programa poderá ser pago em três vezes, no valor 45 Eur. pagos no início de cada mês. 
+
+##Inscrições até 27 de Março, têm acesso a um programa extra:
+
+**Chama-se programa de motivação e propósito.** Durante 100 dias, todos os dias, às 8 da manhã recebe um email que cria a motivação necessária para que a prática aconteça.  
+
+Este programa, pode ser adquirido em separado depois desta data, pelo valor de 39 Eur. 
 
 **Dia 31 de Março, às 18:45 começam as aulas.**
 

@@ -12,6 +12,10 @@ layout: default
   De 31 de Março a 25 de Junho
 </h3>
 
+<h2 style="text-align: center;">
+  Condições especiais para incrições até 27 de Março
+</h2>
+
 
 >Forte é aquele que conquista os outros; Poderoso é aquele que se conquista a si mesmo. - Lao Tzu, Filósofo Chinês. 
 
@@ -94,13 +98,19 @@ Independentemente do seu nível, de conhecimentos sobre esta prática, o fortale
 
 **Horários: Terças ou Quintas das 12:30 às 13:45 ou Quintas das 18:45 às 20h**
 
-  * 110 Eur ou 40 Eur/mês 
+  * 100 Euros até dia 27 de Março; 110 Eur. depois desta data.
 
 **Duas vezes por semana (24 Aulas)**
 
 **Horários: Terças e Quintas das 12:30 às 13:45 ou Quintas das 18:45 às 20h**
 
-  * 160 Eur ou 55 Eur/mês
+  * 150 Euros até dia 27 de Março; 160 Eur. depois desta data.
+
+**Uma ou duas vezes por semana, e participação no seminário com Peter den Dekker.** Esta é uma oportunidade de fortalecer a prática deste trimestre, realizando o seminário anual com Peter Den Dekker, adicionalmente às aulas semanais.  
+
+<p align="center"><img src="http://lourencoazevedo.com/imagens/valores.jpg" style="width: 800px"></p>
+
+**Estas condições aplicam-se só para alunos inscritos até 27 de Março.**
 
 **Poderá ainda fazer o pagamento das 10 ou 20 aulas, em conjuntos de pacotes 5 ou 10 aulas para poder praticar ao seu ritmo**
 
