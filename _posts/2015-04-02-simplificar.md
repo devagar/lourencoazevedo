@@ -28,9 +28,9 @@ Esta metáfora pode ser também transposta para o seu dia a dia.
 
 Especialmente, quando o cansaço se vai se instalando ao longo do dia, ao longo da semana ou ao longo dos anos. Nessa altura pode:
 
-1. Praticar este exercício com uma regularidade diária de 5 a 20 minutos
-2. Perguntar-se onde pode simplificar a sua vida - o que está a fazer demais e que é desnecessário, por si ou pelos outros
-3. Perguntar-se se consegue manter o seu ritmo actual - por mais 15 anos
+1. Praticar este exercício, com uma regularidade diária de 5 a 20 minutos.
+2. Perguntar-se onde pode simplificar a sua vida - o que está a fazer demais e que é desnecessário, por si ou pelos outros.
+3. Perguntar-se se consegue manter o seu ritmo actual - por mais 15 anos.
 
 Simplificar, simplificar. 
 
