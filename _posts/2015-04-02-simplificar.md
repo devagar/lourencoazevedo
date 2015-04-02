@@ -24,7 +24,7 @@ Essa simplificação pode passar por:
 4. Manter os joelhos relaxados
 5. Manter a face relaxada - sorrir.
 
-Esta metáfora pode ser facilmente transposta para o seu dia a dia. 
+Esta metáfora pode ser também transposta para o seu dia a dia. 
 
 Especialmente, quando o cansaço se vai se instalando ao longo do dia, ao longo da semana ou ao longo dos anos. Nessa altura pode:
 
