@@ -20,8 +20,6 @@ Se ainda deseja participar, ao realizar a sua inscrição esta semana, é lhe of
 
 E as 11 aulas, voltam a ser 12 de novo. 
 
-Parece-lhe justo?
-
 [Façam-me chegar um email hoje](mailto:lourenco.azevedo@gmail.com) e poderá começar a praticar já amanhã. 
 
 Ao enviar-me um email, manifestando a sua vontade de participar, receberá o resumo da passada semana da aula em que vai começar a participar. 
