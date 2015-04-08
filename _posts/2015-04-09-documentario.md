@@ -8,7 +8,7 @@ Publicado em 1975, este livro teve um efeito em quem o leu, muito semelhante ao 
 
 Mesmo antes da Páscoa...
 
-Recomenda-se uma mastigação com tempo, durante os 42 minutos que se seguem depois de pressionar o Play 
+Recomenda-se uma mastigação com tempo, durante os 42 minutos que se seguem depois de pressionar o "play". 
 
 Boas visualizações.  
 
