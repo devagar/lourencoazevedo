@@ -15,7 +15,7 @@ Criar espaço e tempo diário para a prática do Chi Kung, ou para o Cultivo da 
 
 Significa que existe uma escolha, de onde essa resposta pode surgir: 
 
-Do exterior do tornado, onde a respostas geram mais respostas até à (sua) exaustão, ou então do (seu) centro, onde a quietude mostra que não é tanto a quantidade e rapidez das respostas que é importante, mas a qualidade que coloca em cada um delas, que pode fazer a diferença. 
+Do exterior do tornado, onde a respostas geram mais respostas até à (sua) exaustão, ou então do (seu) centro, onde a quietude mostra que não é tanto a quantidade e rapidez das respostas que é importante, mas a qualidade que coloca em cada uma delas, que pode fazer a diferença. 
 
 O dia, pode transformar-se assim num acto criativo, um acto de separar o essencial do acessório. 
 
