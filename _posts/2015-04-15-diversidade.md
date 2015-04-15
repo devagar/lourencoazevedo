@@ -35,5 +35,4 @@ Boas práticas.
 
 + **Dia 18 de Abril,** às 18:30, palestra com entrada Livre na [Sociedade Portuguesa de Naturalogia](https://www.facebook.com/events/1569698589974873/). Tema - O Chi Kung em casa e na clínica. Será uma viagem, sobre a história e aplicações do Chi Kung em vários terrenos. Para além da teoria da Medicina Tradicional Chinesa e como habitual, estas palestras incluem exercícios práticos.
 
-###### fotos gentilmente cedidas por [Tom Dijkman](http://www.tomdijkman.nl/tom-dijkman/)
 
