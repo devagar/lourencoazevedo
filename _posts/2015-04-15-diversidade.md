@@ -25,7 +25,7 @@ A prática da Quietude, deixa de ser um momento aparentemente passivo e estagnad
 
 Este tempo passa a ser, de si para si, a autorização e afirmação diária de que **é no centro do tornado que deseja estar.**
 
-É independentemente da circunstâncias ter a capacidade de parar, sentir os pés no chão, respirar fundo e sorrir. 
+É independentemente da circunstâncias, ter a capacidade de parar, sentir os pés no chão, respirar fundo e sorrir. 
 
 Boas práticas.
 
