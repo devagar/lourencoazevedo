@@ -21,7 +21,7 @@ O dia, pode transformar-se assim num acto criativo, um acto de separar o essenci
 
 Passa a ser um dia de acções que expressam a sua identidade, em vez de reacções aparentemente activas e dinâmicas, mas que expressam a passividade e incapacidade de escolha.
 
-A prática da Quietude, deixa de ser um momento aparentemente passivo e estagnado, onde nesse período de tempo, mais respostas poderiam estar a ser produzidas e mais movimento poderia estar a ser adicionado ao já existente. 
+A prática da Quietude, deixa de ser um momento aparentemente passivo e improdutivo, onde nesse período de tempo, mais respostas poderiam estar a ser produzidas e mais movimento poderia estar a ser adicionado ao já existente. 
 
 Este tempo passa a ser, de si para si, a autorização e afirmação diária de que **é no centro do tornado que deseja estar.**
 
