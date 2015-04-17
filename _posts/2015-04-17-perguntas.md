@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mas muda mesmo alguma coisa?
+title: Perguntas mais frequentes
 ---
 Hoje é o último dia em que se pode inscrever com condições especiais para [o seminário com Peter Den Dekker.](http://lourencoazevedo.com/2015/03/03/peter.html) 
 
