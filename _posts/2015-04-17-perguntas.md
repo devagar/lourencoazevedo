@@ -53,7 +53,7 @@ Uma lista abreviada por ordem alfabética
 
 ## Qual é o melhor dia para mim?
 
-Sábado, é um dia universal relacionado com o sistema imune e de como pode fortalecer ou complementar esse fortalecimento, utilizando práticas de quietude e de movimento. 
+Sábado, é um dia universal relacionado com o sistema imune e de como pode fortalecer ou complementar esse fortalecimento, utilizando práticas de quietude e de movimento. Vai ser dada especial atenção à postura e respiração. 
 
 Domingo, vai ser dada continuidade à prática individual, com aplicação do conceito da imunidade a dois. 
 
