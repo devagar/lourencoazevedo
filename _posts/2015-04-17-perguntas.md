@@ -57,7 +57,7 @@ Sábado, é um dia universal relacionado com o sistema imune e de como pode fort
 
 Domingo, vai ser dada continuidade à prática individual, com aplicação do conceito da imunidade a dois. 
 
-Tudo depende da intensidade do treino que deseje. Um dia e Sábado será uma prática com menos intensidade. Dois dias ou Domingo, será um treino mais intenso. 
+Tudo depende da intensidade do treino que deseje. Sábado será uma prática com menos intensidade. Frequentar os dois dias ou Domingo, será um treino mais intenso. 
 
 ## Haverá apoio pós curso?
 
