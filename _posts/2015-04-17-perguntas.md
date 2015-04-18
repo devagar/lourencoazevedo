@@ -2,10 +2,6 @@
 layout: post
 title: Perguntas mais frequentes
 ---
-Hoje é o último dia em que se pode inscrever com condições especiais para [o seminário com Peter Den Dekker.](http://lourencoazevedo.com/2015/03/03/peter.html) 
-
-Pode inscrever-se até dia 24 deste mês, mas o valor será diferente. 
-
 Compilei uma série perguntas mais frequentes, que me têm sido feitas por email, sobre este seminário. 
 
 ## Quem é afinal é o Peter Den Dekker?

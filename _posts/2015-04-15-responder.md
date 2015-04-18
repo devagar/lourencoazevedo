@@ -28,11 +28,3 @@ Este tempo passa a ser, de si para si, a autorização e afirmação diária de 
 É independentemente da circunstâncias, ter a capacidade de parar, sentir os pés no chão, respirar fundo e sorrir. 
 
 Boas práticas.
-
-## Em agenda para esta semana:
-
-+ **Sexta-feira**, terminam as condições especiais de inscrição para [o seminário com Peter Den Dekker](http://lourencoazevedo.com/2015/03/03/peter.html) - Este ano, a proposta é a de estudar sobre várias perspectivas a Respiração e a sua relação com o sistema imune. [Siga a o link](http://form.jotformeu.com/form/40704420027340) para aceder directamente ao formulário de inscrição. Aberto a todos os níveis. 
-
-+ **Dia 18 de Abril,** às 18:30, palestra com entrada Livre na [Sociedade Portuguesa de Naturalogia](https://www.facebook.com/events/1569698589974873/). Tema - O Chi Kung em casa e na clínica. Será uma viagem, sobre a história e aplicações do Chi Kung em vários terrenos. Para além da teoria da Medicina Tradicional Chinesa e como habitual, estas palestras incluem exercícios práticos.
-
-
