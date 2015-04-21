@@ -8,11 +8,11 @@ Podemos aprender com estes vendedores, na criação de hábitos de saúde e long
 
 Não é apenas a aquisição de novos recursos, que podem fazer a diferença, mas sim a adaptação dos existentes ás novas situações.
 
-O que muda aqui não o local de venda, não o vendedor, não o carro - são os morangos ou as castanhas.
+O que muda aqui não o local de venda, não é o vendedor, não é o carro - são os morangos ou as castanhas.
 
 A mudança é mínima - tem o tamanho destes frutos. Mas o efeito é extremamente eficaz em termos de adaptação e sobrevivência. 
 
-Antes de viajar para o outro lado do rio, porque ali a relva parece mais verde. Deixe-se primeiro surpreender pelo potencial da relva que tem debaixo dos pés.
+Em alturas de mudança, antes de viajar para o outro lado do rio, porque ali a relva parece mais verde. Deixe-se primeiro surpreender pelo potencial da relva que tem debaixo dos pés.
 
 O pouco, pode assim transformar-se em muito mais. 
 
