@@ -2,7 +2,7 @@
 title: Workshop Peter - English
 layout: default
 ---
-Thank you very much for your participation on the Chi Kung Seminar with Peter Den Dekker.
+Thank you very much, for your participation on the Chi Kung Seminar with Peter Den Dekker.
 
 ## Location and timetable 
 
