@@ -8,11 +8,13 @@ Todas as religiões tem princípios universais.
 Todas as artes marciais têm princípios universais.
 Todas as artes terapêuticas têm princípios universais.
 
-A cópia da forma é fácil, mas na maior parte das situações desactualizado da época em que vivemos.  
+A cópia da forma é fácil, mas na maior parte das situações desactualizado da época em que vivemos. 
 
-E explica, porque é que uma receita culinária, funciona tão bem numa época do ano e noutras não.
+Isto explica porque um Cristo ou um Buda, hoje seria ignorado e provavelmente hospitalizado. 
 
-Porque é que um protocolo de Acupunctura, Massagem funciona tão bem nos primeiros tratamentos e depois deixa de funcionar.
+Porque é que uma receita culinária, funciona tão bem numa época do ano e noutra não.
+
+Porque é que um protocolo de Acupunctura, Massagem é tão eficaz nos primeiros tratamentos e depois deixa de funcionar.
 
 Porque é que uma forma de Tai Chi ou Chi Kung, era tão agradável de realizar e depois se tornou desinteressante. 
 
