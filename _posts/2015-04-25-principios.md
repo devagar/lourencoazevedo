@@ -1,12 +1,8 @@
 ---
 layout: post
-title: Porque não podemos ser como os antigos mestres?
+title: A (in)segurança das fórmulas, ou porque não podemos ser como os antigos mestres.
 ---
-Cultivar a mestria numa arte, não se limita a copiar a imagem do Mestre/Artista que a criou. Significa absorver os seus princípios, absorver nos ensinamentos, aquilo que independentemente da época ou do espaço onde se encontra pode ser aplicado.
-
-Todas as religiões tem princípios universais.
-Todas as artes marciais têm princípios universais.
-Todas as artes terapêuticas têm princípios universais.
+Cultivar a mestria numa arte, não se limita a copiar a imagem do Mestre/Artista que a criou. Significa absorver os seus princípios, absorver nos ensinamentos, aquilo que independentemente da época ou do espaço onde se encontra pode ser aplicado. Não a sua imagem, roupas ou corte de cabelo. 
 
 A cópia da forma é fácil, mas na maior parte das situações, está desactualizado da época em que vivemos. 
 
