@@ -4,7 +4,7 @@ title: A (in)segurança das fórmulas, ou porque não podemos ser como os antigo
 ---
 Cultivar a mestria numa arte, não se limita a copiar a imagem do Mestre/Artista que a criou. Significa absorver os seus princípios, absorver nos ensinamentos, aquilo que independentemente da época ou do espaço onde se encontra pode ser aplicado. Não a sua imagem, roupas ou corte de cabelo. 
 
-A cópia da forma é fácil, mas na maior parte das situações, está desactualizado da época em que vivemos. 
+A cópia da forma é fácil, mas na maior parte das situações, está desactualizada da época em que vivemos. 
 
 Isto explica porque Cristo e Buda, hoje seriam ignorados e provavelmente hospitalizados.
 
