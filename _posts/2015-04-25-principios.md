@@ -10,9 +10,11 @@ Todas as artes terapêuticas têm princípios universais.
 
 A cópia da forma é fácil, mas na maior parte das situações, está desactualizado da época em que vivemos. 
 
-Isto explica porque um Cristo ou Buda, hoje seriam ignorados e provavelmente hospitalizados. 
+Isto explica porque Cristo e Buda, hoje seriam ignorados e provavelmente hospitalizados. 
 
 Porque é que uma receita culinária, funciona tão bem numa época do ano e noutra não.
+
+Porque a dieta, que resultou tão bem quando tinha 30 anos, aos 40 fez-lhe ganhar ainda mais peso.
 
 Porque é que um protocolo de Acupunctura ou Massagem, é tão eficaz nos primeiros tratamentos e depois deixa de funcionar.
 
