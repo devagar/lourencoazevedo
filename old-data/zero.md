@@ -7,11 +7,11 @@ layout: default
 <p align="center"><img src="http://lourencoazevedo.com/pimagens/zero.jpg" style="border: 1px solid #ccc; padding: 0px; width: 600px"></p>
 
 <h1 style="text-align: center;"> 
-  Aulas de introdução ao Chi Kung
+  Curso de introdução ao Chi Kung
 </h1>
 
 <h2 style="text-align: center;">
-  Conhecer, praticar, criar regularidade
+  12 semanas para conhecer, praticar, criar regularidade
 </h2>
 
 <h2 style="text-align: center;">
@@ -61,7 +61,7 @@ O Curso de introdução ao Zhan Zhuang Chi Kung é um convite à simplificação
   + Ficheiros vídeo e áudio com os exercícios, para poder aprofundar a sua prática em casa.
   + Apoio presencial e via email, para esclarecer qualquer dúvida que surja.
 
-Durante este conjunto de aulas vai ter acesso a material que lhe permite:
+Nas 12 horas que dura este curso, ao participar vai ter acesso a material que lhe permite:
 
   * Conhecer História do Chi Kung e do Zhan Zhuang Chi Kung
   * Aprender os princípios básicos da filosofia oriental. 
@@ -72,7 +72,7 @@ Durante este conjunto de aulas vai ter acesso a material que lhe permite:
   * Aprender a praticar onde quer que esteja e para onde quer que vá
   * Criar autonomia na sua prática diária. 
 
-Estas aulas, são leccionadas numa proporção de 70% de prática para 30% de teoria. No final, será entregue um certificado de participação.
+Este curso é leccionado numa proporção de 70% de prática para 30% de teoria. No final, será entregue um certificado de participação.
 
 ## A quem se destina?
 
@@ -86,18 +86,27 @@ A quem deixou de praticar e quer regressar á prática começando pelo seu essen
 
 <a name="signup"></a>
 
-## Como participar no Programa de Introdução ao Chi Kung
-  
-As aulas têm o valor de 40 Euros por mês de aulas.
+## Como participar no Programa Chi Kung Zero
 
-Deverá entrar em [contacto comigo](http://lourencoazevedo.com/contacto.html), ou dirigir-se ao [Instituto Macrobiótico de Portugal](http://institutomacrobiotico.com/), 10 minutos antes do início das aulas. 
-  
-**Esta é uma oportunidade de viver a sua Primavera,** com uma pratica que tem para lhe oferecer, em conjunto com a Medicina Tradicional Chinesa, um modelo de compreensão mais profunda sobre os ciclos da natureza. Compreendo estes ciclos pode compreender também como viver em harmonia com o momento presente. 
+  1. O valor total deste programa é de 100 Euros - se a inscrição for feita até dia 27 de Março, ou de 120 para inscrições depois desta data.
+  2. Deverá preencher o [seguinte formulário.][1]
+  3. Transferir o valor da inscrição de 30 Eur. (que será deduzido no preço do programa) para o nib 0045 5197 40259661184 38 - o restate valor deverá ser pago na primeira aula. 
+
+Este programa poderá ser pago em três vezes, no valor 45 Eur. pagos no início de cada mês. 
+
+**Dia 31 de Março, às 18:45 começam as aulas.**
+
+Depois de confirmada a sua transferência, receberá instruções para iniciar o seus estudos.
+
+**Esta é uma oportunidade de começar a sua Primavera,** com uma pratica que tem para lhe oferecer, em conjunto com a Medicina Tradicional Chinesa, um modelo de compreensão mais profunda sobre os ciclos da natureza. Compreendo estes ciclos pode compreender também como viver em harmonia com o momento presente. 
 
 O meu compromisso, em todos os programas de estudo que crio e nas aulas que lecciono, é desenvolver o melhor conteúdo possível, para permitir a quem se inscreve superar-se e descobrir novas possibilidades no seu dia a dia com a prática do Zhan Zhuang Chi Kung.
 
 **Como tal garanto,** a todos os inscritos que não se encontrem satisfeitos com o programa, que possuem cinco dias depois da primeira aula para que todo o investimento seja devolvido &#8211; sem que qualquer pergunta seja feita.
 
-Tem questões sobre este programa de estudo? [Clique aqui.][http://lourencoazevedo.com/contacto.html]
+Tem questões sobre este programa de estudo? [Clique aqui.][2]  
 
 <p align="center"><img src="http://lourencoazevedo.com/pimagens/zero.jpg" style="border: 1px solid #ccc; padding: 0px; width: 600px"></p>
+
+ [1]: http://form.jotformeu.com/form/50007240461339
+ [2]: /contacto/

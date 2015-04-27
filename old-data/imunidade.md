@@ -5,12 +5,13 @@ layout: default
 <p align="center"><img src="http://lourencoazevedo.com/imagens/imunidade.jpg" style="width: 800px"></p>
 
 <h2 style="text-align: center;">
-  Fortalecer a Imunidade e a Postura
+  12 Semanas para fortalecer a Imunidade e a Postura
 </h2>
 
 <h3 style="text-align: center;">
   De 31 de Março a 25 de Junho
 </h3>
+
 
 >Forte é aquele que conquista os outros; Poderoso é aquele que se conquista a si mesmo. - Lao Tzu, Filósofo Chinês. 
 
@@ -44,24 +45,27 @@ Mediante um diagnóstico individualizado, é possível o Especialista de Medicin
 
 Nestes últimos anos, tenho vindo a utilizar o Chi Kung como método preferencial de terapia, para quem procura soluções terapêutica personalizadas e a desenvolver programas de estudo, que permitem a quem neles participa ganhar autoridade e autonomia sobre o seu espaço, tempo e recursos. 
 
+**O tema do próximo trimestre** - a iniciar já dia 31 de Março, será a **Imunidade** e a sua relação com a postura. 
+
 O programa Imunidade, são um conjunto de 12 semanas de aulas, que permitem a quem participa estudar o sistema imunitário, utilizando o Zhan Zhuang Chi Kung e a Medicina Tradicional Chinesa como linguagem. 
 
-Estas aulas permitem, estudar o sistema imunitário e incluem material de estudo semanal, para permitir-lhe compreender e aplicar melhor este tema no seu dia a dia. Utilizando o Zhan Zhuang Chi Kung e a Medicina Tradicional Chinesa como linguagem.
+Estas aulas incluem material de estudo semanal, para lhe permitir compreender e aplicar melhor este tema no seu dia a dia.  
 
-No final é possível reunir material suficiente para poder criar uma prática de Chi Kung à sua medida e mediante as suas necessidades individuais. 
+No final destas 12 semanas, é possível reunir material suficiente para poder criar uma prática de Chi Kung à sua medida e mediante as suas necessidades individuais. 
 
 Como participar?
 
 Existem várias possibilidades de treino para as próximas 12 semanas
 
-  * **Frequentar uma aula por semana** 
-  * **Frequentar duas aulas por semana** 
+  * **Frequentar uma aula por semana** – no total de 12 aulas.
+  * **Frequentar duas aulas por semana** – No total de 24 aulas.
   * **Frequentar aulas particulares,** como forma de aprofundar a um nível individual seu potencial e limitações.
+  * **Frequentar o seminário com Peter Den Dekker,** em que o tema central será também a Imunidade e a postura.
   * **Todas opções de aulas presencias incluem material de estudo semanal.**
 
-## Aulas regulares 
+## Programa das aulas regulares 
 
-Cada sessão tem uma duração de 75 min. que lhe dão acesso a material que lhe vai permitir – independentemente do seu nível:
+Além das 12 ou 24 horas de aulas que contêm estes blocos, cada sessão tem uma duração de 75 min. que lhe dão acesso a material que lhe vai permitir – independentemente do seu nível:
 
   * Fortalecer a sua prática, criando hábitos mais sólidos
   * Utilizar mais eficientemente, o tempo actual de prática 
@@ -72,13 +76,13 @@ Cada sessão tem uma duração de 75 min. que lhe dão acesso a material que lhe
   * Beneficiar, de todos os efeitos que o Chi Kung Terapêutico lhe pode oferecer
   * Fazer parte de uma comunidade, motivada em desenvolver os seus hábitos de prática.
 
-**Cada conjunto de aulas que desenvolvo, permite que reúna material necessário para que no final possa continuar a treinar autonomamente, ao seu ritmo e segundo os seus recursos.**
+**Cada curso que desenvolvo, permite que reúna material necessário para que no final possa continuar a treinar autonomamente, ao seu ritmo e segundo os seus recursos.**
 
 ## A quem se destina? 
 
 Independentemente do seu nível, de conhecimentos sobre esta prática, o fortalecimento da Imunidade e da postura são temas universais. Este bloco de aulas está aberto a todos os interessados em iniciar, ou fortalecer a sua prática individual, no sentido de trazer mais vitalidade ao seu dia a dia.
 
-**Local das aulas:** [Instituto Macrobiótico de Portugal](http://www.institutomacrobiotico.com/) – a 5 minutos do metro Baixa Chiado.
+**Local das aulas:** Instituto Macrobiótico de Portugal – a 5 minutos do metro Baixa Chiado.
 
 <a name="signup"></a>
 
@@ -86,17 +90,17 @@ Independentemente do seu nível, de conhecimentos sobre esta prática, o fortale
 
 ### Passo 1 – Escolha um dos programas de estudo 
 
-**Uma vez por semana** 
+**Uma vez por semana (12 Aulas)** 
 
 **Horários: Terças ou Quintas das 12:30 às 13:45 ou Quintas das 18:45 às 20h**
 
-  * 40 Eur/mês 
+  * 110 Eur ou 40 Eur/mês 
 
-**Duas vezes por semana**
+**Duas vezes por semana (24 Aulas)**
 
 **Horários: Terças e Quintas das 12:30 às 13:45 ou Quintas das 18:45 às 20h**
 
-  * 55 Eur/mês
+  * 160 Eur ou 55 Eur/mês
 
 **Poderá ainda fazer o pagamento das 10 ou 20 aulas, em conjuntos de pacotes 5 ou 10 aulas para poder praticar ao seu ritmo**
 
@@ -107,17 +111,33 @@ Independentemente do seu nível, de conhecimentos sobre esta prática, o fortale
 
   * 30 Eur./Mês realizam-se Quintas-feiras entre as 11:30 e 12:25 e não necessitam de inscrição. Tema deste ano lectivo – Respiração e Relaxamento.
 
+**Livre Acesso a todas as aulas**
+
+  * 200 Eur. Permitem-lhe realizar todas as aulas em regime livre – Aulas avançadas + Regulares + Chi Kung Sentado.
+
 **O valor das aulas avulso** é de 15 Eur. por aula
 
 > Adicionar 15 Eur. – Valor facultativo anual, que diz respeito ao seguro e que deve ser pago directamente ao Instituto Macrobiótico na primeira semana de aula. A sua subscrição é da inteira responsabilidade do praticante.*
 
 ### Passo 2 
 
-Deverá entrar em [contacto comigo](http://lourencoazevedo.com/contacto.html), ou dirigir-se ao [Instituto Macrobiótico de Portugal](http://institutomacrobiotico.com/), 10 minutos antes do início das aulas.
+<a title="Formulário de inscrição" href="http://lourencoazevedo.com/inscricao.html" target="_blank">Preencha os seguinte formulário</a>
+
+### Passo 3 
+
+Transfira o valor da inscrição de 30 Eur. (que será deduzido no preço total programa escolhido) para o Nib 0045 5197 40259661184 38
+
+O restante valor deve ser pago no primeiro dia de aulas.
+
+## Dia 31 de Março começam as aulas! 
+
+**(Dia 31 de Março para quem inicia a uma Terça, ou 2 de Abril para quem inicia a uma Quinta)** 
+
+Depois de confirmada a sua transferência receberá instruções para iniciar o seus estudos.
 
 Esta é uma oportunidade única de integrar um grupo de praticantes com uma motivação de tornar a sua prática mais forte e integrada no seu dia a dia.
 
-[Testemunhos][1] de vários participantes dos diversos programas de estudo.
+[Testemunhos][1] de vários participantes nos programas Chi Kung Dojo.
 
 ## Garantia Chi Kung Dojo 
 

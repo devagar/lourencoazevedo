@@ -4,12 +4,33 @@ title: A Arte do Cultivo da Quietude
 ---
 ## E se fosse possível praticar Chi Kung todos os dias?
 
+<a href="http://lourencoazevedo.com/2015/03/03/peter.html"><img src="http://lourencoazevedo.com/pimagens/2015-03-03.jpg" style="width: 40%; float: left; margin-right: 1em; margin-top: 1em; margin-bottom: 1em;" /></a>
+
+<h3>Workshop com Peter den Dekker</h3>
+
+Lisboa, Escola secundária António Arroio
+
+Dias 25 e 26 de Abril
+
+### Sábado 25
+
+Fortalecer Imunidade e Postura
+
+### Domingo 26
+Pushing Hands Terapêutico
+
+**Condições especiais para inscrições até dia 17 de Março.** 
+
+Clique na imagem para saber mais.
+
+<hr>
+
 <a href="http://lourencoazevedo.com/imunidade.html"><img src="http://lourencoazevedo.com/imagens/imunidade.jpg" style="width: 40%; float: left; margin-right: 1em; margin-top: 1em;" /></a>
 
  
 <h3>Aulas Regulares</h3>
 
-[Fortalecer o Sistema Imunitário](/imunidade.html) de 31 de Março a 25 de Junho, **condições especiais para inscrições até dia 27 de Março.** 
+[Novo bloco de aulas](imunidade.html) de 31 de Março a 25 de Junho, **condições especiais para inscrições até dia 27 de Março.** 
 
 Todas as aulas são realizadas no [Instituto Macrobiótico de Portugal](http://institutomacrobiotico.com)
 
@@ -30,9 +51,11 @@ Todas as aulas são realizadas no [Instituto Macrobiótico de Portugal](http://i
 
 <a href="http://lourencoazevedo.com/zero.html"><img src="http://lourencoazevedo.com/pimagens/zero.jpg" style="width: 40%; float: left; margin-right: 1em; margin-top: 1em;" /></a>
 
-<h3>Aulas para iniciados</h3>
+<h3>Curso de introdução ao Chi Kung</h3>
 
-[Criar hábitos de prática regulares e consistentes.](zero.html). De 31 de Março a 23 de Junho.
+[Criar hábitos de prática regulares e consistentes.](zero.html)
+
+De 31 de Março a 23 de Junho, **condições especiais para inscrições até dia 27 de Março.**
 
 Todas as aulas são realizadas no [Instituto Macrobiótico de Portugal](http://institutomacrobiotico.com)
 
