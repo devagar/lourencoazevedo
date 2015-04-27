@@ -37,6 +37,7 @@ Todas as aulas são realizadas no [Instituto Macrobiótico de Portugal](http://i
 Todas as aulas são realizadas no [Instituto Macrobiótico de Portugal](http://institutomacrobiotico.com)
 
 <br>
+<br>
 
 ### Horário
 

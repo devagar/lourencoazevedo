@@ -77,6 +77,4 @@ Sim.
 
 Mais perguntas? [envie-me um email](http://lourencoazevedo.com/contacto.html)
 
-Participar? [Siga a ligação](http://form.jotformeu.com/form/40704420027340) para aceder directamente ao formulário de inscrição. 
-
 Boas práticas.
