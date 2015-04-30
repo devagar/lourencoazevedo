@@ -5,7 +5,7 @@ title: Foto de Grupo - Diários
 
 <p align="center"><img src="http://lourencoazevedo.com/pimagens/2015-04-30-1.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
 
-Na segunda às 11h da manhã, levei o Peter Den Dekker a um taxi que o transportou ao aeroporto. 
+Na segunda feira às 11h da manhã, levei o Peter Den Dekker a um taxi que o transportou ao aeroporto. 
 
 Quando regressei, lavei a loiça do pequeno almoço, arrumei a casa e estendi a roupa do fim de semana, que entretanto tinha acabado de lavar. 
 
@@ -37,6 +37,6 @@ Fica a partilha.
 + Tempo para digerir
 + Plenitude
 
-Boas práticas.
+Boas práticas e obrigado pela presença e palavras de quem aceitou o desafio. 
 
 <p align="center"><img src="http://lourencoazevedo.com/pimagens/2015-04-30-3.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
