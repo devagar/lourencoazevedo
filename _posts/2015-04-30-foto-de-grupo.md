@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Foto de Grupo - Diários 
+title: Foto de Grupo 
 ---
 
 <p align="center"><img src="http://lourencoazevedo.com/pimagens/2015-04-30-1.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
