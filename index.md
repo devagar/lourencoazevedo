@@ -30,7 +30,7 @@ Todas as aulas são realizadas no [Instituto Macrobiótico de Portugal](http://i
 
 <a href="http://lourencoazevedo.com/zero.html"><img src="http://lourencoazevedo.com/pimagens/zero.jpg" style="width: 40%; float: left; margin-right: 1em; margin-top: 1em;" /></a>
 
-<h3>Aulas para iniciados</h3>
+<h3>Aulas de introdução</h3>
 
 [Criar hábitos de prática regulares e consistentes.](zero.html). De 31 de Março a 23 de Junho.
 
