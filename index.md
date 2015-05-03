@@ -9,7 +9,7 @@ title: A Arte do Cultivo da Quietude
  
 <h3>Aulas Regulares</h3>
 
-[Fortalecer o Sistema Imunitário](/imunidade.html) de 31 de Março a 25 de Junho, **condições especiais para inscrições até dia 27 de Março.** 
+[Fortalecer o Sistema Imunitário](/imunidade.html) de 31 de Março a 25 de Junho.
 
 Todas as aulas são realizadas no [Instituto Macrobiótico de Portugal](http://institutomacrobiotico.com)
 
