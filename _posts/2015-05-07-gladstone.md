@@ -7,23 +7,23 @@ title: Chi Kung em viagem - Gladstone Library - Parte 1
 
 A 50 minutos de Liverpool fica [Gladstone Library](https://www.gladstoneslibrary.org/). 
 
-As 12 horas que demorei, de Lisboa - via aeroporto de Faro, para chegar a esta biblioteca residencial, fizeram-me recordar viagens que fiz no passado, para destinos onde as auto-estradas não existiam, caminhadas de vários dias, ou viagens de autocarro "intermináveis", em que o cansaço por da parte da mente que quer o imediato, dá lugar ao tempo para contemplar o processo de deslocação de A para B, a um ritmo mais orgânico, com o tempo necessário para reflectir e estar no momento presente. 
+As 12 horas que demorei de Lisboa - via aeroporto de Faro, para chegar a esta biblioteca residencial, fizeram-me recordar viagens que fiz no passado, para destinos onde as auto-estradas não existiam, caminhadas de vários dias, ou viagens de autocarro "intermináveis", em que o cansaço por da parte da mente que quer o imediato, dá lugar ao tempo para contemplar o processo de deslocação de A para B, a um ritmo mais orgânico, com o tempo necessário para reflectir e estar no momento presente. 
 
 <p align="center"><img src="http://lourencoazevedo.com/pimagens/2015-05-07-2.jpg" style="border: 1px solid #ccc; padding: 5px; width: 600px"></p>
 
-É nestes percursos, que encontro mais frequentemente a pergunta - Qual é a pressa afinal de chegar, quando o percurso é por si só tão ou mais rico que o destino?
+É nestes percursos, que encontro mais frequentemente a pergunta - Qual é a pressa afinal de chegar, quando a viagem é por si só tão ou mais rica que o destino?
 
 ## A Quietude e a (im)produtividade   
 
-Em 2011, durante o curso [Trailblazer](http://www.jointrailblazer.com/start/), que se destinava a desenvolver recursos para "sermos pagos para fazer o que gostamos", conheci o Fabian Krause, um blogger alemão, que assina o blog [The Friendly Anarchist](http://www.friendlyanarchist.com/). 
+Em 2011, durante o curso on-line que se destinava a desenvolver recursos para "sermos pagos para fazer o que gostamos", conheci o Fabian Krause, um blogger alemão, que assina o blog [The Friendly Anarchist](http://www.friendlyanarchist.com/). 
 
 <p><img src="http://www.friendlyanarchist.com/wp-content/uploads/fabiankruse-300x198.jpg" class="profile" style="float: left; margin-right: 1em; width: 250px;"></p>
 
 Fabian fotografa e escreve sobre viagens, mas também sobre desconexão e liberdade de escolha. Em três palavras "Your Life, Your Pace, Your Rules" - A tua Vida, o teu Ritmo, as tuas Regras. É autor dos livros [Beyond Rules](http://www.amazon.com/Beyond-Rules-Dilettantes-Sovereignty-ebook/dp/B007KD5YJC/ref=sr_1_20?ie=UTF8&qid=1333827306&sr=8-20) e [Productive Anywhere](http://www.friendlyanarchist.com/productive-anywhere/)
 
-Em 2014, uma viagem de férias a Lisboa do Fabian, foi o ponto de partida para a vontade de um projecto de colaboração comum,  que juntasse A Arte do Cultivo da Quietude com o "Anarquista Amigável",
+Em 2014, uma viagem de férias a Lisboa do Fabian, foi o ponto de partida para a vontade de um projecto de colaboração comum,  que juntasse A Arte do Cultivo da Quietude com o "Anarquista Amigável".
 
-Alguns emails e conversas por skype depois, ficou claro que existia terreno de entendimento para criar algo. Não teria de ser obrigatoriamente mediático, grandioso e lucrativo, mas teria de ser obrigatoriamente, relaxante, divertido e desafiante. 
+Alguns emails e conversas por skype depois, ficou claro que existia terreno de entendimento suficiente para criar algo. Não teria de ser obrigatoriamente mediático, grandioso e lucrativo, mas teria de ser obrigatoriamente, relaxante, divertido e desafiante. 
 
 ## E porque não convidar mais alguns amigos?
 
@@ -35,7 +35,7 @@ Alguns emails e conversas por skype depois, ficou claro que existia terreno de e
 
 <p><img src="https://i.vimeocdn.com/portrait/3030121_300x300.jpg" class="profile" style="float: left; margin-right: 1em; width: 250px;"></p>
 
-**Milo McLaughlin** - Estratega de criação de conteúdos de internet e marketing por email. Escreve para o blog [Clear Minded Creative](http://www.clearmindedcreative.com/) que tem o seu foco num produtividade consciente, presente e integrada nos outros aspectos da vida.
+**Milo McLaughlin** - Estratega de criação de conteúdos de internet e marketing por email. Escreve para o blog [Clear Minded Creative](http://www.clearmindedcreative.com/). Tem o seu foco num produtividade consciente, presente e integrada nos outros aspectos da vida.
 
 <hr>
 
