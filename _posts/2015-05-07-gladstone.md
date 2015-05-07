@@ -45,6 +45,8 @@ Assim surgiu o conceito, para a primeira edição do **(Un)Productivity Summit.*
 
 **Mary Gordon** - Cinesasta e artista dedica-se a encontrar meios de autorizaçao e expressão livre da palavra. Não existe muito trabalho digital da Mary. Dedica-se a um trabalho no terreno, em que o meio digital serve apenas de alavanca para iniciar o processo. Mantém o blog [Fat Black Cat Journal](https://fatblackcatjournal.wordpress.com/) onde coloca fotos e reflexões várias.
 
+<hr>
+
 A equipa estava reunida. 
 
 <p align="center"><img src="http://lourencoazevedo.com/pimagens/2015-05-07-3.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
