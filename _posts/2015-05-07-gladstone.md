@@ -35,7 +35,7 @@ Alguns emails e conversas por skype depois, ficou claro que existia terreno de e
 
 <p><img src="https://i.vimeocdn.com/portrait/3030121_300x300.jpg" class="profile" style="float: right; margin-right: 1em; width: 250px;"></p>
 
-**Milo McLaughlin** - Estratega de criação de conteúdos de internet e marketing por email. Escreve para o blog [Clear Minded Creative](http://www.clearmindedcreative.com/). Tem o seu foco num produtividade consciente, presente e integrada nos outros aspectos da vida.
+**Milo McLaughlin** - Estratega de criação de conteúdos de internet e marketing por email. Escreve para o blog [Clear Minded Creative](http://www.clearmindedcreative.com/). Tem o seu foco numa produtividade consciente, presente e integrada nos outros aspectos da vida.
 
 <hr>
 
