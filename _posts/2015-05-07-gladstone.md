@@ -11,7 +11,7 @@ As 12 horas que demorei de Lisboa - via aeroporto de Faro, para chegar a esta bi
 
 <p align="center"><img src="http://lourencoazevedo.com/pimagens/2015-05-07-2.jpg" style="border: 1px solid #ccc; padding: 5px; width: 600px"></p>
 
-É nestes percursos, que encontro mais frequentemente a pergunta - Qual é a pressa afinal de chegar, quando a viagem é por si só tão ou mais rica que o destino?
+É nestes percursos, que frequentemente encontro a pergunta - Qual é afinal a pressa de chegar, quando a viagem é por si só tão ou mais rica que o destino?
 
 ## A Quietude e a (im)produtividade   
 
