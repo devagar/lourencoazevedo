@@ -39,7 +39,7 @@ Alguns emails e conversas por skype depois, ficou claro que existia terreno de e
 
 <hr>
 
-<p><img src="http://www.broughtonspurtle.org.uk/sites/broughtonspurtle.org.uk/files/styles/medium_default/public/images/story/20141214_113657.jpg?itok=ZrsxSIia" class="profile" style="float: left; margin-right: 1em; width: 250px;"></p>
+<p><img src="http://www.broughtonspurtle.org.uk/sites/broughtonspurtle.org.uk/files/styles/medium_default/public/images/story/20141214_113657.jpg?itok=ZrsxSIia" class="profile" style="float: right; margin-right: 1em; width: 250px;"></p>
 
 **Mary Gordon** - Na actualidade, uma das activistas com maior preponderância no movimento que dá pelo nome de "yarn bombing". Antes de conhecer a Mary achava simpático o "tricot" colocado à volta das árvores e nos locais mais inesperados. Aprendi que estas criações aparentemente inofensivas, suaves e fofinhas, podem ser meios incrivelmente eficazes para a expressão da liberdade da palavra e ideias. Não existe muito trabalho digital da Mary. Mantém o blog [Fat Black Cat Journal](https://fatblackcatjournal.wordpress.com/) onde coloca fotos e reflexões várias.
 
