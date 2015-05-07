@@ -41,9 +41,9 @@ Assim surgiu o conceito, para a primeira edição do **(Un)Productivity Summit.*
 
 <hr>
 
-<p><img src="http://www.broughtonspurtle.org.uk/sites/broughtonspurtle.org.uk/files/styles/medium_default/public/images/story/20141214_113657.jpg?itok=ZrsxSIia" class="profile" style="float: left; margin-right: 1em; width: 250px;"></p>
+<p><img src="https://fatblackcatjournal.files.wordpress.com/2015/04/mg_0247_0023.jpg" class="profile" style="float: left; margin-right: 1em; width: 250px;"></p>
 
-**Mary Gordon** - Na actualidade, uma das activistas com maior preponderância no movimento que dá pelo nome de "yarn bombing". Antes de conhecer a Mary achava simpático o "tricot" colocado à volta das árvores e nos locais mais inesperados. Aprendi que estas criações aparentemente inofensivas, suaves e fofinhas, podem ser meios incrivelmente eficazes para a expressão da liberdade da palavra e ideias. Não existe muito trabalho digital da Mary. Mantém o blog [Fat Black Cat Journal](https://fatblackcatjournal.wordpress.com/) onde coloca fotos e reflexões várias.
+**Mary Gordon** - Cinesasta e artista dedica-se a encontrar meios de autorizaçao e expressão livre da palavra. Não existe muito trabalho digital da Mary. Dedica-se a um trabalho no terreno, em que o meio digital serve apenas de alavanca para iniciar o processo. Mantém o blog [Fat Black Cat Journal](https://fatblackcatjournal.wordpress.com/) onde coloca fotos e reflexões várias.
 
 A equipa estava reunida. 
 
