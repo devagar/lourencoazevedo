@@ -19,11 +19,11 @@ Em 2011, durante o curso [Trailblazer](http://www.jointrailblazer.com/start/), q
 
 <p><img src="http://www.friendlyanarchist.com/wp-content/uploads/fabiankruse-300x198.jpg" class="profile" style="float: left; margin-right: 1em; width: 250px;"></p>
 
-Fabian fotografa e escreve sobre viagens, mas também sobre desconexão e liberdade de escolha. Em três palavras "Your Life, Your Pace, Your Rules" - A tua Vida, o teu Ritmo, as tuas Regras. É autor dos livros [Beyond Rules](http://www.amazon.com/Beyond-Rules-Dilettantes-Sovereignty-ebook/dp/B007KD5YJC/ref=sr_1_20?ie=UTF8&qid=1333827306&sr=8-20): A Dilettante's Guide to Personal Sovereignty, Space Travel, and Lots of Ice Cream e [Productive Anywhere](http://www.friendlyanarchist.com/productive-anywhere/)
+Fabian fotografa e escreve sobre viagens, mas também sobre desconexão e liberdade de escolha. Em três palavras "Your Life, Your Pace, Your Rules" - A tua Vida, o teu Ritmo, as tuas Regras. É autor dos livros [Beyond Rules](http://www.amazon.com/Beyond-Rules-Dilettantes-Sovereignty-ebook/dp/B007KD5YJC/ref=sr_1_20?ie=UTF8&qid=1333827306&sr=8-20) e [Productive Anywhere](http://www.friendlyanarchist.com/productive-anywhere/)
 
 Em 2014, uma viagem de férias a Lisboa do Fabian, foi o ponto de partida para a vontade de um projecto de colaboração comum,  que juntasse A Arte do Cultivo da Quietude com o "Anarquista Amigável",
 
-Alguns emails e conversas por skype depois, ficou claro que existia terreno de entendimento para criar algo. Não teria de obrigatoriamente ser mediático, grandioso e lucrativo, mas teria de ser obrigatoriamente, relaxante, divertido e desafiante. 
+Alguns emails e conversas por skype depois, ficou claro que existia terreno de entendimento para criar algo. Não teria de ser obrigatoriamente mediático, grandioso e lucrativo, mas teria de ser obrigatoriamente, relaxante, divertido e desafiante. 
 
 ## E porque não convidar mais alguns amigos?
 
@@ -41,19 +41,19 @@ Alguns emails e conversas por skype depois, ficou claro que existia terreno de e
 
 <p><img src="http://www.broughtonspurtle.org.uk/sites/broughtonspurtle.org.uk/files/styles/medium_default/public/images/story/20141214_113657.jpg?itok=ZrsxSIia" class="profile" style="float: left; margin-right: 1em; width: 250px;"></p>
 
-**Mary Gordon** - Na actualidade, uma das activistas com maior preponderância no movimento que dá pelo nome de "yarn bombing". Antes de conhecer a Mary achava simpático o "tricot" colocado à volta das árvores e nos locais mais inesperados. Aprendi que estas criações, suaves e fofinhas, podem ser meios incrivelmente eficazes para a expressão da liberdade da palavra e ideias. Não existe muito trabalho digital da Mary. Mantém o blog [Fat Black Cat Journal](https://fatblackcatjournal.wordpress.com/) onde coloca fotos e reflexões várias.
+**Mary Gordon** - Na actualidade, uma das activistas com maior preponderância no movimento que dá pelo nome de "yarn bombing". Antes de conhecer a Mary achava simpático o "tricot" colocado à volta das árvores e nos locais mais inesperados. Aprendi que estas criações aparentemente inofensivas, suaves e fofinhas, podem ser meios incrivelmente eficazes para a expressão da liberdade da palavra e ideias. Não existe muito trabalho digital da Mary. Mantém o blog [Fat Black Cat Journal](https://fatblackcatjournal.wordpress.com/) onde coloca fotos e reflexões várias.
 
 A equipa estava reunida. 
 
 <p align="center"><img src="http://lourencoazevedo.com/pimagens/2015-05-07-3.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
 
-A escolha da Gladstone Library, deveu-se à tradição que esta biblioteca tem em albergar massa crítica nas mais diversas áreas e por ter todas as condições necessárias para uma estadia focada no que é necessário. O ambiente circundante convida à pausa e reflexão essenciais ao processo criativo. 
+A escolha da Gladstone Library, deveu-se à tradição que esta biblioteca tem em albergar massa crítica nas mais diversas áreas e por ter todas as condições necessárias para uma estadia focada na criação. O ambiente circundante convida à pausa e reflexão, essenciais ao desenvolvimento desse mesmo processo criativo. 
 
 <p align="center"><img src="http://lourencoazevedo.com/pimagens/2015-05-07-4.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
 
 Foi fundada no final do Século XIX e é a maior biblioteca residencial no Reino Unido. 
 
-Neste momento acolhe continuamente escritores de todo o mundo e programas residenciais de escrita variados.    
+Presentemente, acolhe continuamente escritores de todo o mundo e programas residenciais de escrita variados.    
 
 **A Continuar...**
 
