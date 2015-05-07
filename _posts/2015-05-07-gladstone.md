@@ -9,7 +9,7 @@ A 50 minutos de Liverpool fica [Gladstone Library](https://www.gladstoneslibrary
 
 As 12 horas que demorei, de Lisboa - via aeroporto de Faro, para chegar a esta biblioteca residencial, fizeram-me recordar viagens que fiz no passado, para destinos onde as auto-estradas não existiam, caminhadas de vários dias ou viagens de autocarro "intermináveis" em que o cansaço da parte da mente que quer o imediato, dá lugar ao tempo para contemplar o processo de deslocação de A para B, a um ritmo mais orgânico, com espaço e tempo para reflectir e estar no momento presente. 
 
-<p align="center"><img src="http://lourencoazevedo.com/pimagens/2015-05-07-2.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
+<p align="center"><img src="http://lourencoazevedo.com/pimagens/2015-05-07-2.jpg" style="border: 1px solid #ccc; padding: 5px; width: 600px"></p>
 
 É nestes percursos, que encontro mais frequentemente a pergunta - Qual é a pressa afinal de chegar, quando o percurso é por si só tão ou mais rico que o destino?
 
@@ -31,9 +31,13 @@ Alguns emails e conversas por skype depois, ficou claro que existia terreno de e
 
 **Michael Knobs** - Podcaster e autor de [vários livros](http://www.amazon.co.uk/Michael-Nobbs/e/B00H3VMTU8/ref=sr_ntt_srch_lnk_2?qid=1430992634&sr=8-2), o mais conhecido [How to draw your life](http://www.sustainablycreative.com/dyl/). Michael escreve sobre o poder das pequenas rotinas diárias no seu blog [sustainably creative](http://www.sustainablycreative.com/).
 
+<hr>
+
 <p><img src="https://i.vimeocdn.com/portrait/3030121_300x300.jpg" class="profile" style="float: left; margin-right: 1em; width: 250px;"></p>
 
 **Milo McLaughlin** - Estratega de criação de conteúdos de internet e email marketing. Escreve para o blog [Clear Minded Creative](http://www.clearmindedcreative.com/) que se tem o seu foco num produtividade consciente e integrada nos outros aspectos da vida.
+
+<hr>
 
 <p><img src="http://www.broughtonspurtle.org.uk/sites/broughtonspurtle.org.uk/files/styles/medium_default/public/images/story/20141214_113657.jpg?itok=ZrsxSIia" class="profile" style="float: left; margin-right: 1em; width: 250px;"></p>
 
