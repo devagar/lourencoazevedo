@@ -35,7 +35,7 @@ Assim surgiu o conceito, para a primeira edição do **(Un)Productivity Summit.*
 
 <hr>
 
-<p><img src="https://i.vimeocdn.com/portrait/3030121_300x300.jpg" class="profile" style="float: right; margin-right: 1em; width: 250px;"></p>
+<p><img src="https://i.vimeocdn.com/portrait/3030121_300x300.jpg" class="profile" style="float: left; margin-right: 1em; width: 250px;"></p>
 
 **Milo McLaughlin** - Estratega de criação de conteúdos de internet e marketing por email. Escreve para o blog [Clear Minded Creative](http://www.clearmindedcreative.com/). Tem o seu foco numa produtividade consciente, presente e integrada nos outros aspectos da vida.
 
