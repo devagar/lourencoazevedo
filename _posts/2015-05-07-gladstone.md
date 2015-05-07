@@ -55,7 +55,7 @@ A escolha da Gladstone Library, deveu-se à tradição que esta biblioteca tem e
 
 Foi fundada no final do Século XIX e é a maior biblioteca residencial no Reino Unido. 
 
-Presentemente, acolhe continuamente escritores de todo o mundo e programas residenciais de escrita variados.    
+Presentemente, acolhe continuamente escritores de todo o mundo, integrados em programas residenciais de escrita.    
 
 **A Continuar...**
 
