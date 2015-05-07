@@ -25,6 +25,8 @@ Em 2014, uma viagem de férias a Lisboa do Fabian, foi o ponto de partida para a
 
 Alguns emails e conversas por skype depois, ficou claro que existia terreno de entendimento suficiente para criar algo. Não teria de ser obrigatoriamente mediático, grandioso e lucrativo, mas teria de ser obrigatoriamente, relaxante, divertido e desafiante. 
 
+Assim surgiu o conceito, para a primeira edição do (Un)Productivity Summit.
+
 ## E porque não convidar mais alguns amigos?
 
 <p><img src="http://ecx.images-amazon.com/images/I/71ookmG7AEL._UX250_.jpg" class="profile" style="float: left; margin-right: 1em; width: 250px;"></p>
