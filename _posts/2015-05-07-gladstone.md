@@ -31,7 +31,7 @@ Assim surgiu o conceito, para a primeira edição do **(Un)Productivity Summit.*
 
 <p><img src="http://ecx.images-amazon.com/images/I/71ookmG7AEL._UX250_.jpg" class="profile" style="float: left; margin-right: 1em; width: 250px;"></p>
 
-**Michael Knobs** - Podcaster e autor de [vários livros](http://www.amazon.co.uk/Michael-Nobbs/e/B00H3VMTU8/ref=sr_ntt_srch_lnk_2?qid=1430992634&sr=8-2), o mais conhecido [How to draw your life](http://www.sustainablycreative.com/dyl/). Michael escreve sobre o poder das pequenas rotinas diárias no seu blog [sustainably creative](http://www.sustainablycreative.com/).
+**Michael Nobbs** - Podcaster e autor de [vários livros](http://www.amazon.co.uk/Michael-Nobbs/e/B00H3VMTU8/ref=sr_ntt_srch_lnk_2?qid=1430992634&sr=8-2), o mais conhecido [How to draw your life](http://www.sustainablycreative.com/dyl/). Michael escreve sobre o poder das pequenas rotinas diárias no seu blog [sustainably creative](http://www.sustainablycreative.com/).
 
 <hr>
 
