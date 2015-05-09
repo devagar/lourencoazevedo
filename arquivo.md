@@ -2,7 +2,7 @@
 layout: default
 title: arquivo
 ---
-<ul>
+
   {% for post in site.posts %}
 
     {% unless post.next %}
@@ -24,7 +24,7 @@ title: arquivo
         <h2>{{ post.date | date: '%b' }}</h2>
       {% endif %}
     {% endunless %}
-
+<ul>
     <h5>{{ post.date | date:"%d-%b: " }} <a href="{{ post.url }}">{{ post.title }}</a></h5>
   {% endfor %}
 </ul>
