@@ -2,6 +2,8 @@
 layout: post
 title: Viver sem esforço
 ---
+<p align="center"><img src="http://lourencoazevedo.com/pimagens/2015-05-12.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
+
 >Não está nas estrelas a capacidade de realizar o nosso destino, mas em nós mesmos. **William Shakespeare**  
 
 Num dos retiros de Chi Kung, que realizei na Toscana, lembro-me de durante um dos períodos de descanso, estar deitado na relva com a cabeça colada ao chão. Observava rebentos, de variadas plantas, de uma perspectiva o mais horizontal possível. 
@@ -59,5 +61,3 @@ Porquê então dar-se a esse trabalho todo?
 Porque é único, porque é seu.
 
 Boas práticas.
-
-<p align="center"><img src="http://lourencoazevedo.com/pimagens/2015-05-12.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
