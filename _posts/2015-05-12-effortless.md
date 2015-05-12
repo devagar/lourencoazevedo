@@ -6,7 +6,7 @@ title: Viver sem esforço
 
 Num dos retiros de Chi Kung, que realizei na Toscana, lembro-me de durante um dos períodos de descanso, estar deitado na relva com a cabeça colada ao chão. Observava rebentos, de variadas plantas, de uma perspectiva o mais horizontal possível. 
 
-Quem já passou por esta experiência, ou por observar um qualquer rebento a crescer, pode também ter observado a quantidade da vitalidade ali presente, a segurança com que avançam em direcção ao céu e mesmo sua resiliência quando são pisados. Em poucos minutos, estão de novo a demonstrar vitalidade e direcção. Tudo isto aparentemente sem esforço. 
+Quem já passou por esta experiência, ou por observar um qualquer rebento a crescer, pode também ter observado a quantidade da vitalidade ali presente, a segurança com que avançam em direcção ao céu e mesmo a sua resiliência quando são pisados. Em poucos minutos, estão de novo a demonstrar vitalidade e direcção. Tudo isto aparentemente sem esforço. 
 
 Esta imagem, ficou presente desde então, como uma imagem que procuro transportar para os meus dias - do que é viver sem esforço. 
 
@@ -14,9 +14,9 @@ Se uma planta, pode demonstrar tanta vitalidade, direcção e flexibilidade, o q
 
 ## O conceito de destino
 
-**Segundo a Filosofia Chinesa,** 命 (Mìng) expressa a ideia de destino. Este ideograma, é constituído pela parte superior que representa neste contexto o Céu. O "quadrado" à esquerda representa uma boca e o da direita um selo que é utilizado quando se assina um contrato ou um documento importante. Assim, destino para os chineses, é um contrato que é ditado pelo Céu o qual assinamos e subscrevemos - antes de nascermos. 
+**Segundo a Filosofia Chinesa,** 命 (Mìng) expressa a ideia de destino. Este ideograma, é constituído pela parte superior que representa neste contexto o Céu. O "quadrado" à esquerda representa uma boca e o da direita um selo que é utilizado quando se assina um contrato ou um documento importante. Assim, destino para os chineses, é um contrato que é ditado pelo Céu, o qual assinamos e subscrevemos - antes de nascermos. 
 
-O que está escrito nesse contrato? 
+**O que está escrito nesse contrato?** 
 
 Está ai expresso, onde durante a nossa vida, nos comprometemos a investir a nossa Energia Vital. Se esse investimento for feito de acordo com esse contrato, então o Céu fornece energia para a sua realização. Se a vida for num outro sentido, diferente do contrato que foi assinado, o Céu não nos promove, nem suporta. 
 
@@ -32,7 +32,7 @@ Sem esforço, não significa assim fazer menos, significa fazer o que está de a
 
 ## Fica o convite para reflectir
 
-Imagine que está a falar com alguém amigo, daquilo que lhe desperta paixão, que lhe cria entusiasmo, que lhe faz brilhar os olhos, que lhe provoca pele de galinha e um arrepio bom pela coluna acima. Sente cansaço no final dessa conversa? 
+Imagine que está a falar com alguém amigo, do que lhe desperta paixão, que lhe cria entusiasmo, que lhe faz brilhar os olhos, que lhe provoca pele de galinha e um arrepio bom pela coluna acima. Sente cansaço no final dessa conversa? 
 
 Qual era o tema desta partilha?
 
@@ -59,3 +59,5 @@ Porquê então dar-se a esse trabalho todo?
 Porque é único, porque é seu.
 
 Boas práticas.
+
+<p align="center"><img src="http://lourencoazevedo.com/pimagens/2015-05-12.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
