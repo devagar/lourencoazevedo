@@ -30,39 +30,39 @@
 
 /* fonts */
 
-            @font-face {
-              font-family: "Source Sans Pro";
-              src: url("/fonts/SourceSansPro-Light.ttf");
-              font-weight: 300;
-            }
-            @font-face {
-              font-family: "Source Sans Pro";
-              src: url("/fonts/SourceSansPro-Regular.ttf");
-              font-weight: 400;
-            }
-            @font-face {
-              font-family: "Source Sans Pro";
-              src: url("/fonts/SourceSansPro-Bold.ttf");
-              font-weight: 700;
-            }
-            @font-face {
-              font-family: "Source Sans Pro";
-              src: url("/fonts/SourceSansPro-LightItalic.ttf");
-              font-weight: 300;
-              font-style: italic;
-            }
-            @font-face {
-              font-family: "Source Sans Pro";
-              src: url("/fonts/SourceSansPro-Italic.ttf");
-              font-weight: 400;
-              font-style: italic;
-            }
-            @font-face {
-              font-family: "Source Sans Pro";
-              src: url("/fonts/SourceSansPro-BoldItalic.ttf");
-              font-weight: 700;
-              font-style: italic;
-            }
+  @font-face {
+    font-family: "Source Sans Pro";
+    src: url("/fonts/SourceSansPro-Light.ttf");
+    font-weight: 300;
+  }
+  @font-face {
+    font-family: "Source Sans Pro";
+    src: url("/fonts/SourceSansPro-Regular.ttf");
+    font-weight: 400;
+  }
+  @font-face {
+    font-family: "Source Sans Pro";
+    src: url("/fonts/SourceSansPro-Bold.ttf");
+    font-weight: 700;
+  }
+  @font-face {
+    font-family: "Source Sans Pro";
+    src: url("/fonts/SourceSansPro-LightItalic.ttf");
+    font-weight: 300;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: "Source Sans Pro";
+    src: url("/fonts/SourceSansPro-Italic.ttf");
+    font-weight: 400;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: "Source Sans Pro";
+    src: url("/fonts/SourceSansPro-BoldItalic.ttf");
+    font-weight: 700;
+    font-style: italic;
+  }
 
 /* basic */
 
@@ -122,17 +122,36 @@
 
     /* No `:visited` state is required by default (browsers will use `a`) */
 
+a {
+  color: #268bd2;
+  text-decoration: none;
+  /* First we need to help some browsers along for this to work.
+     Just because a vendor prefix is there, doesn't mean it will
+     work in a browser made by that vendor either, it's just for
+     future-proofing purposes I guess. */
+  -o-transition:.7s;
+  -ms-transition:.7s;
+  -moz-transition:.7s;
+  -webkit-transition:.7s;
+  /* ...and now for the proper property */
+  transition:.7s;
+}
+a:hover { color: #FF6600; }
+
+
+/*
     a {
       color: #268bd2;
       text-decoration: none;
     }
 
     /* `:focus` is linked to `:hover` for basic accessibility */
-
+/*
     a:hover,
     a:focus {
       text-decoration: underline;
-    }
+    } 
+*/
 
 /*
  * Masthead
@@ -322,43 +341,6 @@
     .container .offset-by-ten                   { padding-left: 82.78%; }
     .container .offset-by-eleven                { padding-left: 91.39%; }
 
-
-
-/* mobile */
-
-    @media only screen and (max-width: 767px) {
-        .container { width: 80%; margin: 0 auto;}
-        .container .columns,
-        .container .column { margin: 0; }
-
-        .container .one.column,
-        .container .one.columns,
-        .container .two.columns,
-        .container .three.columns,
-        .container .four.columns,
-        .container .five.columns,
-        .container .six.columns,
-        .container .seven.columns,
-        .container .eight.columns,
-        .container .nine.columns,
-        .container .ten.columns,
-        .container .eleven.columns,
-        .container .twelve.columns  { width: 100%; }
-
-        /* Offsets */
-        .container .offset-by-one,
-        .container .offset-by-two,
-        .container .offset-by-three,
-        .container .offset-by-four,
-        .container .offset-by-five,
-        .container .offset-by-six,
-        .container .offset-by-seven,
-        .container .offset-by-eight,
-        .container .offset-by-nine,
-        .container .offset-by-ten,
-        .container .offset-by-eleven { padding-left: 0; }
-
-    }
 
 /* clearfix */ 
 
