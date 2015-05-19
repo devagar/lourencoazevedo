@@ -9,9 +9,11 @@ markdown: kramdown
 name: Zhan Zhuang Chi Kung
 description: A Arte do Cultivo da Quietude
 url: http://lourencoazevedo.com
+icon: /imagens/mawangdui.jpg
 safe: true
 lsi: false
 highlighter: 'pygments'
+
 
 
 
