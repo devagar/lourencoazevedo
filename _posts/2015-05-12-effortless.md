@@ -3,7 +3,7 @@ layout: post
 title: Viver sem esforço
 ---
 
-<p class="pic"><img src="http://lourencoazevedo.com/pimagens/2015-05-12.jpg"><p>
+<p class="pic"><img src="http://lourencoazevedo.com/pimagens/2015-05-12.jpg"></p>
 
 
 
