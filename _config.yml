@@ -8,7 +8,7 @@ exclude:     []
 markdown: kramdown
 name: Zhan Zhuang Chi Kung
 description: A Arte do Cultivo da Quietude
-url: http://devagar.github.io/lourencoazevedo/
+url: http://lourencoazevedo.com
 safe: true
 lsi: false
 highlighter: 'pygments'

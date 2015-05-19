@@ -1,10 +1,14 @@
 ---
 layout: post
 title: Viver sem esforço
+
+img: /pimagens/2015-05-12.jpg
+
+description:
+
 ---
 
 ![germinado](http://lourencoazevedo.com/pimagens/2015-05-12.jpg)
-
 
 
 >Não está nas estrelas a capacidade de realizar o nosso destino, mas em nós mesmos. **William Shakespeare**  
