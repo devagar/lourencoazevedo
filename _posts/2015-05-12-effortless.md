@@ -2,7 +2,7 @@
 layout: post
 title: Viver sem esforço
 
-img: /pimagens/2015-05-12.jpg
+image: /pimagens/2015-05-12.jpg
 
 description:
 
