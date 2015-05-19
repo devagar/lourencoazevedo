@@ -13,8 +13,5 @@ safe: true
 lsi: false
 highlighter: 'pygments'
 
-# Open Graph
-og_image: pimagens/mawangdui.jpg # Default image for Open Graph tag
-og_image_type: image/jpg
-og_image_width: 800
+
 
