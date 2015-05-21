@@ -3,7 +3,6 @@ layout: post
 title: Cultivar a paciência
 image: /pimagens/2015-05-21.jpg
 ---
-
 <p align="center"><img src="http://lourencoazevedo.com/pimagens/2015-05-21.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
 
 A Primavera, possui a energia ascendente do Fígado.
