@@ -4,13 +4,13 @@ title: Chi Kung em viagem - Gladstone Library - Parte 1
 image: /pimagens/2015-05-07-1.jpg
 ---
 
-<p align="center"><img src="http://lourencoazevedo.com/pimagens/2015-05-07-1.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
+<p align="center"><img src="http://devagar.org/pimagens/2015-05-07-1.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
 
 A 50 minutos de Liverpool fica [Gladstone Library](https://www.gladstoneslibrary.org/). 
 
 As 12 horas que demorei de Lisboa - via aeroporto de Faro, para chegar a esta biblioteca residencial, fizeram-me recordar viagens que fiz no passado, para destinos onde as auto-estradas não existiam, caminhadas de vários dias, ou viagens de autocarro "intermináveis", em que o cansaço por da parte da mente que quer o imediato, dá lugar ao tempo para contemplar o processo de deslocação de A para B, a um ritmo mais orgânico, com o tempo necessário para reflectir e estar no momento presente. 
 
-<p align="center"><img src="http://lourencoazevedo.com/pimagens/2015-05-07-2.jpg" style="border: 1px solid #ccc; padding: 5px; width: 600px"></p>
+<p align="center"><img src="http://devagar.org/pimagens/2015-05-07-2.jpg" style="border: 1px solid #ccc; padding: 5px; width: 600px"></p>
 
 É nestes percursos, que frequentemente encontro a pergunta - Qual é afinal a pressa de chegar, quando a viagem é por si só tão ou mais rica que o destino?
 
@@ -50,11 +50,11 @@ Assim surgiu o conceito, para a primeira edição do **(Un)Productivity Summit.*
 
 A equipa estava reunida. 
 
-<p align="center"><img src="http://lourencoazevedo.com/pimagens/2015-05-07-3.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
+<p align="center"><img src="http://devagar.org/pimagens/2015-05-07-3.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
 
 A escolha da Gladstone Library, deveu-se à tradição que esta biblioteca tem em albergar massa crítica nas mais diversas áreas e por ter todas as condições necessárias para uma estadia focada na criação. O ambiente circundante convida à pausa e reflexão, essenciais ao desenvolvimento desse mesmo processo criativo. 
 
-<p align="center"><img src="http://lourencoazevedo.com/pimagens/2015-05-07-4.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
+<p align="center"><img src="http://devagar.org/pimagens/2015-05-07-4.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
 
 Foi fundada no final do Século XIX e é a maior biblioteca residencial no Reino Unido. 
 
@@ -64,4 +64,4 @@ Presentemente, acolhe continuamente escritores de todo o mundo, integrados em pr
 
 Boas práticas.
 
-<p align="center"><img src="http://lourencoazevedo.com/pimagens/2015-05-07-5.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
+<p align="center"><img src="http://devagar.org/pimagens/2015-05-07-5.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>

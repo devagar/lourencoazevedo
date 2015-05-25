@@ -4,7 +4,7 @@ title: A Arte do Cultivo da Quietude
 ---
 ## E se fosse possível praticar Chi Kung todos os dias?
 
-<a href="http://lourencoazevedo.com/imunidade.html"><img src="http://lourencoazevedo.com/imagens/imunidade.jpg" style="width: 40%; float: left; margin-right: 1em; margin-top: 1em;" /></a>
+<a href="http://devagar.org/imunidade.html"><img src="http://devagar.org/imagens/imunidade.jpg" style="width: 40%; float: left; margin-right: 1em; margin-top: 1em;" /></a>
 
  
 <h3>Aulas Regulares</h3>
@@ -28,7 +28,7 @@ Todas as aulas são realizadas no [Instituto Macrobiótico de Portugal](http://i
 
 <hr>
 
-<a href="http://lourencoazevedo.com/zero.html"><img src="http://lourencoazevedo.com/pimagens/zero.jpg" style="width: 40%; float: left; margin-right: 1em; margin-top: 1em;" /></a>
+<a href="http://devagar.org/zero.html"><img src="http://devagar.org/pimagens/zero.jpg" style="width: 40%; float: left; margin-right: 1em; margin-top: 1em;" /></a>
 
 <h3>Aulas de introdução</h3>
 
@@ -53,7 +53,7 @@ Aulas que permitem [fortalecer a prática pessoal](/aulas-individuais.html).
 
 ### Video Essencial
 
-Comece hoje a [praticar Chi Kung.](http://lourencoazevedo.com/video.html)
+Comece hoje a [praticar Chi Kung.](http://devagar.org/video.html)
 
 <hr>
 

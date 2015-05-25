@@ -3,7 +3,7 @@ layout: post
 title: Viver sem esforço
 image: /pimagens/2015-05-12.jpg
 ---
-<p align="center"><img src="http://lourencoazevedo.com/pimagens/2015-05-12.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
+<p align="center"><img src="http://http://devagar.org/pimagens/2015-05-12.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
 
 >Não está nas estrelas a capacidade de realizar o nosso destino, mas em nós mesmos. **William Shakespeare**  
 
@@ -53,7 +53,7 @@ Como se sente quando recebe a resposta?
 
 Aceder ao seu contrato, é um processo de reflexão pessoal - é uma construção, ao seu ritmo individual.
 
-Como construção humana que é, envolve tentativa erro, dúvida, experimentação pura e [partir louça](http://lourencoazevedo.com/2015/05/04/partir.html).
+Como construção humana que é, envolve tentativa erro, dúvida, experimentação pura e [partir louça](http://devagar.org/2015/05/04/partir.html).
 
 O que vai encontrar provavelmente nesta busca, é desafiante, requer adaptação, flexibilidade, menos distracções, requer lidar com a incerteza e renovação de processos numa base diária - até ao fim dos seus dias.  
 
