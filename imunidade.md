@@ -2,7 +2,7 @@
 title: Imunidade
 layout: default
 ---
-<p align="center"><img src="http://lourencoazevedo.com/imagens/imunidade.jpg" style="width: 800px"></p>
+<p align="center"><img src="/imagens/imunidade.jpg" style="width: 800px"></p>
 
 <h2 style="text-align: center;">
   Fortalecer a Imunidade e a Postura
